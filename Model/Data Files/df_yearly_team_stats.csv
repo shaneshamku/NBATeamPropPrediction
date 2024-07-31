@@ -1,271 +1,271 @@
-Team,Year,TR,Age,W,L,SRS,ORtg,rORtg,DRtg,rDRtg,NRtg,Pace,rPace,FTr,rFTr,TS%,rTS%,Atlanta Hawks,Boston Celtics,Brooklyn Nets,Charlotte Hornets,Chicago Bulls,Cleveland Cavaliers,Dallas Mavericks,Denver Nuggets,Detroit Pistons,Golden State Warriors,Houston Rockets,Indiana Pacers,Los Angeles Clippers,Los Angeles Lakers,Memphis Grizzlies,Miami Heat,Milwaukee Bucks,Minnesota Timberwolves,New Orleans Pelicans,New York Knicks,Oklahoma City Thunder,Orlando Magic,Philadelphia 76ers,Phoenix Suns,Portland Trail Blazers,Sacramento Kings,San Antonio Spurs,Toronto Raptors,Utah Jazz,Washington Wizards
-Boston Celtics,2024,14.0,28.2,64,18,10.8,123.2,8.6,111.6,-3.0,11.6,97.2,-1.9,0.224,-0.044,0.609,0.028,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2024,9.3,27.2,56,26,6.4,115.6,1.0,109.0,-5.6,6.6,97.1,-2.0,0.27,0.002,0.594,0.013,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Oklahoma City Thunder,2024,9.1,23.4,57,25,7.4,119.5,4.9,112.1,-2.5,7.4,99.8,0.7,0.24,-0.028,0.608,0.027,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Dallas Mavericks,2024,7.8,26.5,50,32,2.3,117.6,3.0,115.4,0.8,2.2,100.1,1.0,0.251,-0.017,0.592,0.011,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Indiana Pacers,2024,5.8,25.3,47,35,2.8,121.0,6.4,118.0,3.4,3.0,101.7,2.6,0.222,-0.046,0.606,0.025,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2024,5.2,27.1,57,25,5.2,118.5,3.9,113.0,-1.6,5.5,96.8,-2.3,0.224,-0.044,0.589,0.008,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New York Knicks,2024,4.1,26.4,50,32,4.4,118.2,3.6,113.4,-1.2,4.8,95.2,-3.9,0.246,-0.022,0.574,-0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Golden State Warriors,2024,3.0,28.4,46,36,2.8,117.8,3.2,115.2,0.6,2.6,99.2,0.1,0.219,-0.049,0.586,0.005,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2024,2.9,24.0,47,35,1.5,113.4,-1.2,111.3,-3.3,2.1,96.9,-2.2,0.287,0.019,0.577,-0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2024,2.8,28.4,47,35,2.5,116.9,2.3,113.8,-0.8,3.1,97.5,-1.6,0.264,-0.004,0.574,-0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Sacramento Kings,2024,2.5,26.4,46,36,2.3,116.9,2.3,115.2,0.6,1.7,98.8,-0.3,0.229,-0.039,0.582,0.001,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-New Orleans Pelicans,2024,2.0,26.0,49,33,4.5,117.4,2.8,112.9,-1.7,4.5,97.9,-1.2,0.261,-0.007,0.591,0.01,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-Milwaukee Bucks,2024,1.7,30.2,49,33,2.4,118.4,3.8,115.8,1.2,2.6,99.9,0.8,0.27,0.002,0.601,0.02,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Clippers,2024,1.3,30.4,51,31,3.4,118.8,4.2,115.4,0.8,3.4,97.2,-1.9,0.256,-0.012,0.599,0.018,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Houston Rockets,2024,1.3,25.1,41,41,1.2,114.5,-0.1,113.4,-1.2,1.1,99.0,-0.1,0.257,-0.011,0.565,-0.016,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Cleveland Cavaliers,2024,1.2,26.2,48,34,2.0,115.2,0.6,112.7,-1.9,2.5,97.2,-1.9,0.234,-0.034,0.586,0.005,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2024,0.9,28.0,47,35,1.1,115.9,1.3,115.3,0.7,0.6,100.9,1.8,0.276,0.008,0.601,0.02,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Phoenix Suns,2024,0.8,29.3,49,33,3.1,117.6,3.0,114.6,0.0,3.0,98.3,-0.8,0.271,0.003,0.603,0.022,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-Miami Heat,2024,-1.4,28.0,46,36,1.1,114.0,-0.6,112.2,-2.4,1.8,96.2,-2.9,0.257,-0.011,0.578,-0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Chicago Bulls,2024,-1.8,28.1,39,43,-1.8,114.9,0.3,116.3,1.7,-1.4,96.3,-2.8,0.236,-0.032,0.568,-0.013,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Atlanta Hawks,2024,-2.6,26.2,36,46,-2.4,117.2,2.6,119.4,4.8,-2.2,100.1,1.0,0.251,-0.017,0.576,-0.005,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Brooklyn Nets,2024,-3.4,26.1,32,50,-3.0,113.2,-1.4,116.1,1.5,-2.9,96.9,-2.2,0.234,-0.034,0.561,-0.02,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Utah Jazz,2024,-4.6,25.1,31,51,-4.2,115.5,0.9,120.4,5.8,-4.9,99.5,0.4,0.251,-0.017,0.579,-0.002,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-San Antonio Spurs,2024,-6.6,23.0,22,60,-5.8,110.0,-4.6,116.4,1.8,-6.4,101.1,2.0,0.22,-0.048,0.563,-0.018,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Toronto Raptors,2024,-7.1,25.9,25,57,-6.5,112.3,-2.3,118.8,4.2,-6.5,99.4,0.3,0.241,-0.027,0.566,-0.015,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Memphis Grizzlies,2024,-7.1,24.4,27,55,-6.6,107.2,-7.4,114.3,-0.3,-7.1,98.2,-0.9,0.238,-0.03,0.543,-0.038,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Portland Trail Blazers,2024,-9.1,24.1,21,61,-8.3,108.3,-6.3,117.5,2.9,-9.2,97.2,-1.9,0.228,-0.04,0.539,-0.042,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Detroit Pistons,2024,-10.2,23.8,14,68,-9.1,109.7,-4.9,118.8,4.2,-9.1,99.8,0.7,0.246,-0.022,0.562,-0.019,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Washington Wizards,2024,-10.4,24.9,15,67,-9.3,110.5,-4.1,119.6,5.0,-9.1,102.7,3.6,0.221,-0.047,0.567,-0.014,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Charlotte Hornets,2024,-10.9,25.1,21,61,-10.1,109.3,-5.3,119.8,5.2,-10.5,97.3,-1.8,0.212,-0.056,0.56,-0.021,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2023,9.0,26.6,53,29,3.0,117.6,2.8,114.2,-0.6,3.4,98.1,-1.0,0.259,-0.007,0.601,0.02,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Boston Celtics,2023,7.7,27.4,57,25,6.4,118.0,3.2,111.5,-3.3,6.5,98.5,-0.6,0.243,-0.023,0.6,0.019,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2023,5.0,28.2,54,28,4.4,117.7,2.9,113.3,-1.5,4.4,96.9,-2.2,0.3,0.034,0.608,0.027,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Miami Heat,2023,4.4,27.7,44,38,-0.1,113.0,-1.8,113.3,-1.5,-0.3,96.3,-2.8,0.27,0.004,0.574,-0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2023,4.0,27.9,43,39,0.4,114.5,-0.3,113.9,-0.9,0.6,101.3,2.2,0.299,0.033,0.582,0.001,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New York Knicks,2023,3.5,24.5,47,35,3.0,117.8,3.0,114.8,0.0,3.0,97.1,-2.0,0.285,0.019,0.577,-0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Cleveland Cavaliers,2023,2.7,25.4,51,31,5.2,116.1,1.3,110.6,-4.2,5.5,95.7,-3.4,0.264,-0.002,0.59,0.009,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Golden State Warriors,2023,2.6,27.3,44,38,1.7,116.1,1.3,114.4,-0.4,1.7,101.6,2.5,0.224,-0.042,0.6,0.019,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Sacramento Kings,2023,1.8,25.4,48,34,2.3,119.4,4.6,116.8,2.0,2.6,100.3,1.2,0.284,0.018,0.608,0.027,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-Phoenix Suns,2023,1.7,28.1,45,37,2.1,115.1,0.3,113.0,-1.8,2.1,98.2,-0.9,0.241,-0.025,0.57,-0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-New Orleans Pelicans,2023,1.7,25.9,42,40,1.6,114.4,-0.4,112.5,-2.3,1.9,99.1,0.0,0.279,0.013,0.582,0.001,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-Toronto Raptors,2023,1.6,25.8,41,41,1.6,115.5,0.7,114.0,-0.8,1.5,97.1,-2.0,0.257,-0.009,0.555,-0.026,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Chicago Bulls,2023,1.4,27.5,40,42,1.4,113.5,-1.3,112.2,-2.6,1.3,98.5,-0.6,0.251,-0.015,0.587,0.006,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Milwaukee Bucks,2023,1.3,29.8,58,24,3.6,115.4,0.6,111.9,-2.9,3.5,100.5,1.4,0.248,-0.018,0.583,0.002,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Memphis Grizzlies,2023,1.0,24.4,51,31,3.6,115.1,0.3,111.2,-3.6,3.9,101.1,2.0,0.259,-0.007,0.57,-0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Oklahoma City Thunder,2023,0.9,22.8,40,42,1.0,115.2,0.4,114.2,-0.6,1.0,101.1,2.0,0.256,-0.01,0.57,-0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Atlanta Hawks,2023,0.1,24.9,41,41,0.3,116.6,1.8,116.3,1.5,0.3,100.7,1.6,0.244,-0.022,0.579,-0.002,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Dallas Mavericks,2023,-0.2,27.8,38,44,-0.1,116.8,2.0,116.7,1.9,0.1,96.6,-2.5,0.298,0.032,0.599,0.018,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Brooklyn Nets,2023,-0.7,28.0,45,37,1.0,115.0,0.2,114.1,-0.7,0.9,98.3,-0.8,0.26,-0.006,0.598,0.017,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Utah Jazz,2023,-1.2,26.5,37,45,-1.0,115.8,1.0,116.7,1.9,-0.9,100.5,1.4,0.265,-0.001,0.584,0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-Washington Wizards,2023,-1.3,26.2,35,47,-1.1,114.4,-0.4,115.6,0.8,-1.2,98.6,-0.5,0.258,-0.008,0.585,0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Los Angeles Clippers,2023,-1.6,29.7,44,38,0.3,115.0,0.2,114.5,-0.3,0.5,98.0,-1.1,0.278,0.012,0.588,0.007,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2023,-2.5,25.8,42,40,-0.2,113.7,-1.1,113.8,-1.0,-0.1,101.0,1.9,0.271,0.005,0.592,0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2023,-2.7,23.1,34,48,-2.4,111.6,-3.2,114.2,-0.6,-2.6,99.3,0.2,0.29,0.024,0.573,-0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Indiana Pacers,2023,-3.1,24.5,35,47,-2.9,114.6,-0.2,117.7,2.9,-3.1,101.1,2.0,0.265,-0.001,0.581,0.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Portland Trail Blazers,2023,-4.3,25.1,33,49,-4.0,114.8,0.0,118.8,4.0,-4.0,98.6,-0.5,0.289,0.023,0.589,0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Charlotte Hornets,2023,-6.5,25.3,27,55,-5.9,109.2,-5.6,115.3,0.5,-6.1,100.8,1.7,0.261,-0.005,0.55,-0.031,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Houston Rockets,2023,-8.4,22.1,22,60,-7.6,111.4,-3.4,119.3,4.5,-7.9,99.0,-0.1,0.285,0.019,0.554,-0.027,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Detroit Pistons,2023,-8.7,24.1,17,65,-7.7,110.7,-4.1,118.9,4.1,-8.2,99.0,-0.1,0.295,0.029,0.561,-0.02,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-San Antonio Spurs,2023,-10.6,23.9,22,60,-9.8,110.2,-4.6,120.0,5.2,-9.8,101.6,2.5,0.229,-0.037,0.554,-0.027,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Golden State Warriors,2022,10.1,27.6,53,29,5.5,112.5,0.5,106.9,-5.1,5.6,98.4,0.2,0.235,-0.013,0.582,0.016,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Boston Celtics,2022,9.0,26.1,51,31,7.0,114.4,2.4,106.9,-5.1,7.5,96.6,-1.6,0.239,-0.009,0.578,0.012,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Miami Heat,2022,8.2,28.2,53,29,4.2,113.7,1.7,109.1,-2.9,4.6,95.9,-2.3,0.252,0.004,0.584,0.018,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Dallas Mavericks,2022,6.6,26.7,52,30,3.1,112.8,0.8,109.4,-2.6,3.4,95.4,-2.8,0.249,0.001,0.572,0.006,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Memphis Grizzlies,2022,6.5,24.0,56,26,5.4,114.6,2.6,109.0,-3.0,5.6,100.3,2.1,0.245,-0.003,0.553,-0.013,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Phoenix Suns,2022,5.7,27.5,64,18,6.9,114.8,2.8,107.3,-4.7,7.5,99.8,1.6,0.221,-0.027,0.581,0.015,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-Milwaukee Bucks,2022,4.9,28.5,51,31,3.2,115.1,3.1,111.8,-0.2,3.3,99.9,1.7,0.257,0.009,0.58,0.014,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2022,3.5,26.8,51,31,2.6,113.5,1.5,110.8,-1.2,2.7,96.2,-2.0,0.282,0.034,0.578,0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Utah Jazz,2022,3.4,29.3,49,33,5.7,116.7,4.7,110.5,-1.5,6.2,97.1,-1.1,0.271,0.023,0.589,0.023,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-Cleveland Cavaliers,2022,2.2,24.7,44,38,2.0,111.9,-0.1,109.7,-2.3,2.2,96.1,-2.1,0.261,0.013,0.571,0.005,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2022,1.7,24.2,46,36,2.5,114.3,2.3,111.7,-0.3,2.6,100.9,2.7,0.254,0.006,0.573,0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Brooklyn Nets,2022,1.2,29.1,44,38,0.8,113.6,1.6,112.8,0.8,0.8,99.0,0.8,0.246,-0.002,0.576,0.01,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Charlotte Hornets,2022,0.6,25.5,43,39,0.5,114.1,2.1,113.7,1.7,0.4,100.0,1.8,0.234,-0.014,0.572,0.006,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2022,0.4,27.7,48,34,2.2,114.5,2.5,112.1,0.1,2.4,97.8,-0.4,0.244,-0.004,0.59,0.024,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Clippers,2022,0.2,27.5,42,40,0.1,110.1,-1.9,110.1,-1.9,0.0,98.0,-0.2,0.224,-0.024,0.564,-0.002,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New Orleans Pelicans,2022,0.1,25.6,36,46,-0.8,112.0,0.0,113.0,1.0,-1.0,97.2,-1.0,0.264,0.016,0.557,-0.009,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-Toronto Raptors,2022,0.1,24.8,48,34,2.4,112.9,0.9,110.5,-1.5,2.4,96.0,-2.2,0.234,-0.014,0.543,-0.023,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-New York Knicks,2022,-0.2,26.0,37,45,0.0,110.4,-1.6,110.5,-1.5,-0.1,95.9,-2.3,0.28,0.032,0.55,-0.016,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-San Antonio Spurs,2022,-0.2,24.5,34,48,0.0,112.4,0.4,112.3,0.3,0.1,100.0,1.8,0.22,-0.028,0.556,-0.01,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Atlanta Hawks,2022,-1.7,26.1,43,39,1.6,116.5,4.5,114.9,2.9,1.6,97.7,-0.5,0.253,0.005,0.581,0.015,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2022,-3.4,30.2,33,49,-3.1,110.3,-1.7,113.3,1.3,-3.0,100.1,1.9,0.259,0.011,0.567,0.001,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Washington Wizards,2022,-3.5,25.9,35,47,-3.2,111.1,-0.9,114.5,2.5,-3.4,97.0,-1.2,0.252,0.004,0.568,0.002,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Chicago Bulls,2022,-3.8,26.3,46,36,-0.4,113.2,1.2,113.6,1.6,-0.4,98.3,0.1,0.248,0.0,0.579,0.013,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Indiana Pacers,2022,-3.9,26.0,25,57,-3.3,112.6,0.6,116.1,4.1,-3.5,98.0,-0.2,0.239,-0.009,0.564,-0.002,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Sacramento Kings,2022,-5.7,25.8,30,52,-5.3,109.9,-2.1,115.3,3.3,-5.4,99.8,1.6,0.264,0.016,0.561,-0.005,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-Detroit Pistons,2022,-8.1,23.6,23,59,-7.4,106.0,-6.0,113.8,1.8,-7.8,98.4,0.2,0.249,0.001,0.533,-0.033,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2022,-8.5,23.3,22,60,-7.7,104.5,-7.5,112.5,0.5,-8.0,99.2,1.0,0.223,-0.025,0.538,-0.028,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Oklahoma City Thunder,2022,-8.6,22.4,24,58,-7.9,104.6,-7.4,112.8,0.8,-8.2,98.5,0.3,0.223,-0.025,0.53,-0.036,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Houston Rockets,2022,-9.1,24.1,20,62,-8.3,108.4,-3.6,116.7,4.7,-8.3,100.9,2.7,0.284,0.036,0.565,-0.001,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Portland Trail Blazers,2022,-9.1,25.6,27,55,-8.6,107.8,-4.2,116.9,4.9,-9.1,98.3,0.1,0.248,0.0,0.55,-0.016,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Phoenix Suns,2021,9.9,26.6,51,21,5.7,117.2,4.9,111.3,-1.0,5.9,97.2,-2.0,0.212,-0.035,0.597,0.025,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-Los Angeles Clippers,2021,9.6,28.8,47,25,6.0,117.6,5.3,111.2,-1.1,6.4,96.9,-2.3,0.222,-0.025,0.599,0.027,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Milwaukee Bucks,2021,9.4,28.1,46,26,5.6,117.2,4.9,111.4,-0.9,5.8,102.2,3.0,0.233,-0.014,0.593,0.021,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Utah Jazz,2021,8.0,28.5,52,20,9.0,117.6,5.3,108.3,-4.0,9.3,98.5,-0.7,0.244,-0.003,0.597,0.025,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-Brooklyn Nets,2021,7.3,28.2,48,24,4.2,118.3,6.0,113.8,1.5,4.5,99.5,0.3,0.258,0.011,0.61,0.038,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2021,7.2,27.1,49,23,5.3,113.2,0.9,107.6,-4.7,5.6,99.5,0.3,0.293,0.046,0.579,0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Atlanta Hawks,2021,4.2,25.4,41,31,2.1,115.7,3.4,113.3,1.0,2.4,97.6,-1.6,0.278,0.031,0.581,0.009,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2021,3.3,26.1,47,25,4.8,117.1,4.8,112.1,-0.2,5.0,97.1,-2.1,0.219,-0.028,0.588,0.016,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Portland Trail Blazers,2021,2.1,27.4,42,30,1.8,117.8,5.5,116.0,3.7,1.8,98.4,-0.8,0.238,-0.009,0.577,0.005,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Dallas Mavericks,2021,2.0,26.3,42,30,2.3,115.4,3.1,113.0,0.7,2.4,97.3,-1.9,0.242,-0.005,0.582,0.01,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2021,1.6,28.2,42,30,2.8,109.9,-2.4,107.1,-5.2,2.8,98.7,-0.5,0.271,0.024,0.569,-0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Golden State Warriors,2021,1.3,26.7,39,33,1.1,111.1,-1.2,110.1,-2.2,1.0,102.2,3.0,0.239,-0.008,0.583,0.011,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Memphis Grizzlies,2021,0.2,24.2,38,34,1.1,112.0,-0.3,111.0,-1.3,1.0,100.4,1.2,0.232,-0.015,0.56,-0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Indiana Pacers,2021,-0.2,26.5,34,38,-0.1,112.4,0.1,112.4,0.1,0.0,101.6,2.4,0.227,-0.02,0.575,0.003,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New Orleans Pelicans,2021,-0.4,24.8,31,41,-0.2,113.5,1.2,113.8,1.5,-0.3,100.1,0.9,0.293,0.046,0.57,-0.002,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-New York Knicks,2021,-0.4,25.6,41,31,2.1,110.6,-1.7,108.2,-4.1,2.4,95.9,-3.3,0.242,-0.005,0.559,-0.013,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Toronto Raptors,2021,-0.9,26.6,27,45,-0.5,112.0,-0.3,112.5,0.2,-0.5,99.2,0.0,0.241,-0.006,0.567,-0.005,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Chicago Bulls,2021,-1.2,25.6,31,41,-0.9,111.1,-1.2,112.0,-0.3,-0.9,99.0,-0.2,0.197,-0.05,0.575,0.003,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Boston Celtics,2021,-1.7,25.1,36,36,1.3,114.0,1.7,112.5,0.2,1.5,98.3,-0.9,0.234,-0.013,0.574,0.002,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-San Antonio Spurs,2021,-1.7,26.2,33,39,-1.6,111.0,-1.3,112.8,0.5,-1.8,98.9,-0.3,0.243,-0.004,0.554,-0.018,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Charlotte Hornets,2021,-2.1,24.6,33,39,-1.9,110.9,-1.4,112.8,0.5,-1.9,98.3,-0.9,0.238,-0.009,0.564,-0.008,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Miami Heat,2021,-2.9,27.4,40,32,-0.1,111.2,-1.1,111.2,-1.1,0.0,96.6,-2.6,0.252,0.005,0.581,0.009,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Sacramento Kings,2021,-3.7,25.6,31,41,-3.5,113.6,1.3,117.2,4.9,-3.6,100.0,0.8,0.248,0.001,0.578,0.006,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-Washington Wizards,2021,-4.4,26.6,34,38,-1.9,111.2,-1.1,113.0,0.7,-1.8,104.1,4.9,0.288,0.041,0.569,-0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Detroit Pistons,2021,-5.1,24.5,20,52,-4.4,108.0,-4.3,112.5,0.2,-4.5,97.9,-1.3,0.273,0.026,0.556,-0.016,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2021,-5.9,23.2,23,49,-5.3,109.5,-2.8,115.0,2.7,-5.5,101.6,2.4,0.254,0.007,0.555,-0.017,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Houston Rockets,2021,-8.4,26.5,17,55,-7.5,107.1,-5.2,114.9,2.6,-7.8,101.4,2.2,0.252,0.005,0.553,-0.019,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Cleveland Cavaliers,2021,-8.8,24.0,22,50,-8.2,105.8,-6.5,114.4,2.1,-8.6,97.3,-1.9,0.261,0.014,0.543,-0.029,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2021,-9.7,25.6,21,51,-9.0,105.1,-7.2,114.5,2.2,-9.4,98.7,-0.5,0.24,-0.007,0.527,-0.045,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Oklahoma City Thunder,2021,-10.8,22.8,22,50,-10.1,103.5,-8.8,114.0,1.7,-10.5,101.0,1.8,0.242,-0.005,0.539,-0.033,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2020,10.5,29.5,52,19,6.3,112.0,1.4,106.3,-4.3,5.7,100.9,0.6,0.276,0.016,0.573,0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Boston Celtics,2020,9.4,25.3,48,24,5.8,113.3,2.7,107.0,-3.6,6.3,99.5,-0.8,0.259,-0.001,0.57,0.005,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Clippers,2020,9.1,27.4,49,23,6.7,113.9,3.3,107.6,-3.0,6.3,101.5,1.2,0.295,0.035,0.577,0.012,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Milwaukee Bucks,2020,8.6,29.2,56,17,9.4,112.4,1.8,102.9,-7.7,9.5,105.1,4.8,0.271,0.011,0.583,0.018,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Toronto Raptors,2020,7.9,26.6,53,19,6.0,111.1,0.5,105.0,-5.6,6.1,100.9,0.6,0.264,0.004,0.574,0.009,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Miami Heat,2020,7.4,25.9,44,29,2.6,112.5,1.9,109.5,-1.1,3.0,98.3,-2.0,0.299,0.039,0.587,0.022,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2020,3.9,25.6,46,27,2.4,113.1,2.5,111.0,0.4,2.1,97.1,-3.2,0.235,-0.025,0.567,0.002,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Houston Rockets,2020,3.9,29.2,44,28,3.1,112.9,2.3,110.1,-0.5,2.8,103.7,3.4,0.288,0.028,0.578,0.013,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Utah Jazz,2020,3.7,27.3,44,28,2.5,112.3,1.7,109.9,-0.7,2.4,98.6,-1.7,0.268,0.008,0.585,0.02,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-Dallas Mavericks,2020,2.8,26.1,43,32,4.9,116.7,6.1,111.7,1.1,5.0,99.3,-1.0,0.264,0.004,0.581,0.016,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Oklahoma City Thunder,2020,1.2,25.5,44,28,2.3,110.8,0.2,108.8,-1.8,2.0,98.8,-1.5,0.29,0.03,0.573,0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2020,0.7,26.3,43,30,2.3,111.3,0.7,109.0,-1.6,2.3,99.0,-1.3,0.255,-0.005,0.566,0.001,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Phoenix Suns,2020,0.5,24.6,34,39,0.6,111.7,1.1,111.4,0.8,0.3,101.3,1.0,0.271,0.011,0.576,0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-Indiana Pacers,2020,0.0,25.6,45,28,1.6,110.0,-0.6,108.0,-2.6,2.0,98.9,-1.4,0.216,-0.044,0.565,0.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New Orleans Pelicans,2020,-0.8,25.4,30,42,-0.6,110.7,0.1,111.9,1.3,-1.2,103.7,3.4,0.256,-0.004,0.568,0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-San Antonio Spurs,2020,-0.8,27.6,32,39,-0.7,112.4,1.8,113.5,2.9,-1.1,100.5,0.2,0.262,0.002,0.572,0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Memphis Grizzlies,2020,-1.0,24.1,34,39,-0.9,109.2,-1.4,110.3,-0.3,-1.1,102.8,2.5,0.24,-0.02,0.561,-0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2020,-1.6,26.1,33,40,-0.9,108.5,-2.1,109.5,-1.1,-1.0,98.6,-1.7,0.256,-0.004,0.544,-0.021,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Sacramento Kings,2020,-1.8,27.0,31,41,-1.6,110.2,-0.4,112.2,1.6,-2.0,98.9,-1.4,0.23,-0.03,0.566,0.001,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-Portland Trail Blazers,2020,-2.4,27.5,35,39,-0.6,113.7,3.1,114.8,4.2,-1.1,100.7,0.4,0.242,-0.018,0.57,0.005,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Brooklyn Nets,2020,-3.7,26.3,35,37,-1.0,108.9,-1.7,109.5,-1.1,-0.6,101.4,1.1,0.267,0.007,0.554,-0.011,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Chicago Bulls,2020,-4.5,24.4,22,43,-4.0,106.7,-3.9,109.8,-0.8,-3.1,99.7,-0.6,0.231,-0.029,0.547,-0.018,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2020,-4.7,24.8,19,45,-4.0,108.1,-2.5,112.2,1.6,-4.1,103.4,3.1,0.277,0.017,0.551,-0.014,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Detroit Pistons,2020,-5.0,25.9,20,46,-4.4,109.0,-1.6,112.7,2.1,-3.7,97.6,-2.7,0.261,0.001,0.561,-0.004,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Washington Wizards,2020,-5.7,25.1,25,47,-5.2,110.9,0.3,115.5,4.9,-4.6,102.7,2.4,0.27,0.01,0.562,-0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-New York Knicks,2020,-7.3,24.5,21,45,-6.7,106.5,-4.1,113.0,2.4,-6.5,98.6,-1.7,0.263,0.003,0.531,-0.034,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Charlotte Hornets,2020,-7.5,24.3,23,42,-7.0,106.3,-4.3,113.3,2.7,-7.0,95.8,-4.5,0.252,-0.008,0.539,-0.026,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Atlanta Hawks,2020,-8.4,24.1,20,47,-7.7,107.2,-3.4,114.8,4.2,-7.6,103.0,2.7,0.258,-0.002,0.554,-0.011,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Cleveland Cavaliers,2020,-8.5,25.0,19,46,-7.8,107.5,-3.1,115.4,4.8,-7.9,98.7,-1.6,0.227,-0.033,0.553,-0.012,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Golden State Warriors,2020,-9.0,24.4,15,50,-8.1,105.2,-5.4,113.8,3.2,-8.6,100.3,0.0,0.264,0.004,0.54,-0.025,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Milwaukee Bucks,2019,12.5,26.9,60,22,8.0,113.8,3.4,105.2,-5.2,8.6,103.3,3.3,0.255,-0.004,0.583,0.023,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Toronto Raptors,2019,10.1,27.3,58,24,5.5,113.1,2.7,107.1,-3.3,6.0,100.2,0.2,0.247,-0.012,0.579,0.019,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Golden State Warriors,2019,9.1,28.4,57,25,6.4,115.9,5.5,109.5,-0.9,6.4,100.9,0.9,0.227,-0.032,0.596,0.036,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Houston Rockets,2019,7.2,29.2,53,29,5.0,115.5,5.1,110.7,0.3,4.8,97.9,-2.1,0.279,0.02,0.581,0.021,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2019,6.3,24.9,54,28,4.2,113.0,2.6,108.9,-1.5,4.1,97.7,-2.3,0.232,-0.027,0.558,-0.002,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Portland Trail Blazers,2019,5.4,26.2,53,29,4.4,114.7,4.3,110.5,0.1,4.2,99.1,-0.9,0.258,-0.001,0.568,0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Boston Celtics,2019,4.7,25.7,49,33,3.9,112.2,1.8,107.8,-2.6,4.4,99.6,-0.4,0.215,-0.044,0.567,0.007,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2019,4.4,26.4,51,31,2.3,112.6,2.2,110.0,-0.4,2.6,101.6,1.6,0.312,0.053,0.574,0.014,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Utah Jazz,2019,2.4,27.3,50,32,5.3,110.9,0.5,105.7,-4.7,5.2,100.3,0.3,0.295,0.036,0.572,0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-San Antonio Spurs,2019,2.1,28.8,48,34,1.8,112.9,2.5,111.2,0.8,1.7,98.3,-1.7,0.237,-0.022,0.572,0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Oklahoma City Thunder,2019,1.8,25.7,49,33,3.6,110.3,-0.1,107.0,-3.4,3.3,102.8,2.8,0.266,0.007,0.545,-0.015,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Indiana Pacers,2019,1.6,27.0,48,34,2.8,109.9,-0.5,106.5,-3.9,3.4,98.1,-1.9,0.242,-0.017,0.561,0.001,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Clippers,2019,-0.1,27.2,48,34,1.1,112.4,2.0,111.5,1.1,0.9,101.7,1.7,0.326,0.067,0.575,0.015,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Miami Heat,2019,-0.5,27.0,39,43,-0.5,107.3,-3.1,107.6,-2.8,-0.3,98.2,-1.8,0.247,-0.012,0.542,-0.018,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Sacramento Kings,2019,-0.9,24.8,39,43,-0.8,110.4,0.0,111.5,1.1,-1.1,103.1,3.1,0.244,-0.015,0.554,-0.006,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-Dallas Mavericks,2019,-1.2,26.9,33,49,-0.9,109.4,-1.0,110.7,0.3,-1.3,99.0,-1.0,0.291,0.032,0.555,-0.005,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2019,-1.2,26.2,36,46,-1.0,111.4,1.0,112.9,2.5,-1.5,100.2,0.2,0.267,0.008,0.552,-0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Charlotte Hornets,2019,-1.4,26.6,39,43,-1.3,111.4,1.0,112.5,2.1,-1.1,98.7,-1.3,0.257,-0.002,0.554,-0.006,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New Orleans Pelicans,2019,-1.4,25.7,33,49,-1.1,111.4,1.0,112.6,2.2,-1.2,103.3,3.3,0.254,-0.005,0.563,0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2019,-1.5,26.2,37,45,-1.3,107.8,-2.6,109.5,-0.9,-1.7,103.2,3.2,0.257,-0.002,0.554,-0.006,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Memphis Grizzlies,2019,-2.4,27.7,33,49,-2.1,106.1,-4.3,108.8,-1.6,-2.7,96.6,-3.4,0.272,0.013,0.548,-0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2019,-3.0,25.7,42,40,0.3,108.9,-1.5,108.1,-2.3,0.8,98.1,-1.9,0.216,-0.043,0.55,-0.01,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Brooklyn Nets,2019,-3.2,25.4,42,40,-0.4,109.6,-0.8,109.7,-0.7,-0.1,100.8,0.8,0.284,0.025,0.556,-0.004,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Detroit Pistons,2019,-3.6,26.9,41,41,-0.6,109.0,-1.4,109.2,-1.2,-0.2,97.4,-2.6,0.262,0.003,0.544,-0.016,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Washington Wizards,2019,-3.7,26.5,32,50,-3.3,111.1,0.7,113.9,3.5,-2.8,101.4,1.4,0.266,0.007,0.567,0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Atlanta Hawks,2019,-6.5,25.1,29,53,-6.1,108.1,-2.3,113.9,3.5,-5.8,103.9,3.9,0.255,-0.004,0.555,-0.005,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Chicago Bulls,2019,-9.1,24.0,22,60,-8.3,104.8,-5.6,113.2,2.8,-8.4,99.0,-1.0,0.235,-0.024,0.541,-0.019,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Phoenix Suns,2019,-9.5,24.0,19,63,-8.6,105.9,-4.5,115.1,4.7,-9.2,100.5,0.5,0.259,0.0,0.552,-0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-New York Knicks,2019,-9.9,23.4,17,65,-8.9,104.5,-5.9,113.7,3.3,-9.2,99.6,-0.4,0.27,0.011,0.529,-0.031,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Cleveland Cavaliers,2019,-10.3,25.2,19,63,-9.4,107.7,-2.7,117.6,7.2,-9.9,96.6,-3.4,0.236,-0.023,0.54,-0.02,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Golden State Warriors,2018,12.8,28.8,58,24,5.8,113.6,5.0,107.6,-1.0,6.0,99.6,2.3,0.239,-0.013,0.603,0.047,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Houston Rockets,2018,9.8,29.8,65,17,8.2,114.7,6.1,106.1,-2.5,8.6,97.6,0.3,0.298,0.046,0.59,0.034,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2018,5.2,25.8,52,30,4.3,109.5,0.9,105.0,-3.6,4.5,99.8,2.5,0.263,0.011,0.568,0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Toronto Raptors,2018,5.0,25.8,59,23,7.3,113.8,5.2,105.9,-2.7,7.9,97.4,0.1,0.25,-0.002,0.575,0.019,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Boston Celtics,2018,4.5,24.7,55,27,3.2,107.6,-1.0,103.9,-4.7,3.7,96.0,-1.3,0.243,-0.009,0.552,-0.004,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Utah Jazz,2018,4.4,26.7,48,34,4.5,108.4,-0.2,103.9,-4.7,4.5,95.7,-1.6,0.26,0.008,0.564,0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-Cleveland Cavaliers,2018,2.9,30.6,50,32,0.6,112.9,4.3,111.9,3.3,1.0,98.0,0.7,0.275,0.023,0.584,0.028,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Indiana Pacers,2018,2.8,26.2,48,34,1.2,109.5,0.9,108.1,-0.5,1.4,96.0,-1.3,0.222,-0.03,0.557,0.001,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New Orleans Pelicans,2018,2.7,27.6,48,34,1.5,109.6,1.0,108.3,-0.3,1.3,100.5,3.2,0.237,-0.015,0.573,0.017,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-Oklahoma City Thunder,2018,2.5,27.3,48,34,3.4,110.7,2.1,107.2,-1.4,3.5,96.7,-0.6,0.275,0.023,0.546,-0.01,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2018,1.8,25.1,46,36,1.6,112.5,3.9,111.0,2.4,1.5,96.8,-0.5,0.258,0.006,0.57,0.014,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Washington Wizards,2018,1.4,26.9,43,39,0.5,109.3,0.7,108.7,0.1,0.6,96.6,-0.7,0.254,0.002,0.56,0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Minnesota Timberwolves,2018,0.9,27.1,47,35,2.4,113.4,4.8,111.1,2.5,2.3,96.0,-1.3,0.28,0.028,0.566,0.01,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Portland Trail Blazers,2018,0.8,25.6,49,33,2.6,109.1,0.5,106.4,-2.2,2.7,96.5,-0.8,0.24,-0.012,0.549,-0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-San Antonio Spurs,2018,0.7,29.3,47,35,2.9,107.9,-0.7,104.8,-3.8,3.1,95.0,-2.3,0.245,-0.007,0.543,-0.013,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Milwaukee Bucks,2018,0.4,25.9,44,38,-0.5,109.8,1.2,110.1,1.5,-0.3,96.2,-1.1,0.281,0.029,0.571,0.015,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Clippers,2018,0.2,27.0,42,40,0.2,110.3,1.7,110.2,1.6,0.1,98.7,1.4,0.299,0.047,0.564,0.008,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Charlotte Hornets,2018,-0.1,26.6,36,46,0.1,109.4,0.8,109.1,0.5,0.3,98.4,1.1,0.312,0.06,0.549,-0.007,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Detroit Pistons,2018,-0.3,25.9,39,43,-0.3,107.2,-1.4,107.3,-1.3,-0.1,96.2,-1.1,0.227,-0.025,0.543,-0.013,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2018,-1.7,23.7,35,47,-1.4,106.5,-2.1,108.0,-0.6,-1.5,100.3,3.0,0.264,0.012,0.548,-0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Miami Heat,2018,-2.2,26.5,44,38,0.2,106.8,-1.8,106.3,-2.3,0.5,95.6,-1.7,0.229,-0.023,0.551,-0.005,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Dallas Mavericks,2018,-3.4,27.7,24,58,-2.7,106.3,-2.3,109.5,0.9,-3.2,95.6,-1.7,0.217,-0.035,0.544,-0.012,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New York Knicks,2018,-4.0,26.3,29,53,-3.5,107.1,-1.5,110.7,2.1,-3.6,96.8,-0.5,0.216,-0.036,0.544,-0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Brooklyn Nets,2018,-4.2,25.1,28,54,-3.7,106.9,-1.7,110.6,2.0,-3.7,98.9,1.6,0.26,0.008,0.551,-0.005,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2018,-5.6,25.6,25,57,-4.9,105.2,-3.4,110.1,1.5,-4.9,98.1,0.8,0.238,-0.014,0.545,-0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Atlanta Hawks,2018,-6.0,25.4,24,58,-5.3,105.0,-3.6,110.6,2.0,-5.6,98.3,1.0,0.236,-0.016,0.547,-0.009,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Memphis Grizzlies,2018,-6.6,26.0,22,60,-5.8,104.5,-4.1,111.0,2.4,-6.5,94.9,-2.4,0.255,0.003,0.539,-0.017,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Sacramento Kings,2018,-7.2,26.4,27,55,-6.6,103.7,-4.9,111.1,2.5,-7.4,94.9,-2.4,0.194,-0.058,0.529,-0.027,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-Chicago Bulls,2018,-7.4,24.4,27,55,-6.8,103.8,-4.8,110.9,2.3,-7.1,98.3,1.0,0.216,-0.036,0.529,-0.027,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Phoenix Suns,2018,-9.6,23.7,21,61,-8.8,103.5,-5.1,112.8,4.2,-9.3,100.3,3.0,0.275,0.023,0.532,-0.024,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-Golden State Warriors,2017,17.9,28.2,67,15,11.4,115.6,6.8,104.0,-4.8,11.6,99.8,3.4,0.259,-0.012,0.597,0.045,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Cleveland Cavaliers,2017,10.1,29.2,51,31,2.9,113.6,4.8,110.3,1.5,3.3,96.2,-0.2,0.275,0.004,0.58,0.028,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-San Antonio Spurs,2017,8.7,29.6,61,21,7.1,111.1,2.3,103.5,-5.3,7.6,94.2,-2.2,0.263,-0.008,0.564,0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Houston Rockets,2017,6.6,27.4,55,27,5.8,114.7,5.9,109.0,0.2,5.7,100.0,3.6,0.304,0.033,0.583,0.031,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Clippers,2017,4.3,30.0,51,31,4.4,112.7,3.9,108.2,-0.6,4.5,96.1,-0.3,0.312,0.041,0.574,0.022,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Utah Jazz,2017,3.3,26.8,51,31,4.0,109.6,0.8,105.3,-3.5,4.3,91.6,-4.8,0.288,0.017,0.563,0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-Washington Wizards,2017,2.6,26.0,49,33,1.4,111.2,2.4,109.3,0.5,1.9,97.4,1.0,0.254,-0.017,0.564,0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Boston Celtics,2017,1.8,25.9,53,29,2.3,111.2,2.4,108.4,-0.4,2.8,96.8,0.4,0.273,0.002,0.567,0.015,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Toronto Raptors,2017,1.6,26.1,51,31,3.7,112.3,3.5,107.8,-1.0,4.5,94.7,-1.7,0.293,0.022,0.561,0.009,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Miami Heat,2017,0.8,26.5,41,41,0.8,107.8,-1.0,106.7,-2.1,1.1,95.2,-1.2,0.251,-0.02,0.541,-0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2017,0.7,25.2,40,42,0.7,113.2,4.4,112.7,3.9,0.5,98.3,1.9,0.276,0.005,0.568,0.016,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Milwaukee Bucks,2017,0.0,25.6,42,40,-0.5,109.1,0.3,109.3,0.5,-0.2,94.5,-1.9,0.274,0.003,0.565,0.013,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Memphis Grizzlies,2017,-0.2,29.5,43,39,1.0,107.7,-1.1,107.1,-1.7,0.6,92.3,-4.1,0.28,0.009,0.535,-0.017,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Charlotte Hornets,2017,-0.3,26.5,36,46,-0.1,108.8,0.0,108.6,-0.2,0.2,95.7,-0.7,0.279,0.008,0.547,-0.005,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Oklahoma City Thunder,2017,-0.5,24.7,47,35,1.1,108.3,-0.5,107.5,-1.3,0.8,97.8,1.4,0.295,0.024,0.54,-0.012,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Indiana Pacers,2017,-0.8,27.0,42,40,-0.6,108.6,-0.2,108.8,0.0,-0.2,95.9,-0.5,0.261,-0.01,0.558,0.006,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2017,-1.0,24.0,31,51,-0.6,110.8,2.0,112.0,3.2,-1.2,94.6,-1.8,0.287,0.016,0.555,0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Atlanta Hawks,2017,-1.2,27.9,43,39,-1.2,104.9,-3.9,105.7,-3.1,-0.8,97.4,1.0,0.295,0.024,0.541,-0.011,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Detroit Pistons,2017,-1.4,25.4,37,45,-1.3,106.0,-2.8,107.1,-1.7,-1.1,95.0,-1.4,0.218,-0.053,0.521,-0.031,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Portland Trail Blazers,2017,-1.5,24.8,41,41,-0.2,110.3,1.5,110.8,2.0,-0.5,96.7,0.3,0.275,0.004,0.559,0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Chicago Bulls,2017,-1.7,26.9,41,41,0.0,107.4,-1.4,107.0,-1.8,0.4,95.3,-1.1,0.259,-0.012,0.53,-0.022,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New Orleans Pelicans,2017,-2.0,25.7,34,48,-1.7,105.2,-3.6,107.4,-1.4,-2.2,98.0,1.6,0.256,-0.015,0.539,-0.013,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-Dallas Mavericks,2017,-2.8,27.6,33,49,-2.5,105.6,-3.2,108.8,0.0,-3.2,92.2,-4.2,0.225,-0.046,0.541,-0.011,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Sacramento Kings,2017,-3.6,27.9,32,50,-3.3,107.3,-1.5,111.3,2.5,-4.0,94.9,-1.5,0.284,0.013,0.556,0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-New York Knicks,2017,-4.3,27.3,31,51,-3.9,107.7,-1.1,111.5,2.7,-3.8,96.0,-0.4,0.239,-0.032,0.534,-0.018,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Phoenix Suns,2017,-5.8,25.0,24,58,-5.1,106.6,-2.2,112.2,3.4,-5.6,100.3,3.9,0.297,0.026,0.538,-0.014,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-Philadelphia 76ers,2017,-6.4,24.6,28,54,-5.8,103.2,-5.6,108.9,0.1,-5.7,98.5,2.1,0.258,-0.013,0.539,-0.013,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-Los Angeles Lakers,2017,-6.9,25.1,26,56,-6.3,106.0,-2.8,113.0,4.2,-7.0,98.5,2.1,0.259,-0.012,0.537,-0.015,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2017,-7.1,25.3,29,53,-6.6,103.7,-5.1,110.5,1.7,-6.8,96.8,0.4,0.246,-0.025,0.524,-0.028,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Brooklyn Nets,2017,-7.6,26.0,20,62,-6.7,104.1,-4.7,110.7,1.9,-6.6,101.3,4.9,0.289,0.018,0.551,-0.001,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Cleveland Cavaliers,2016,12.9,28.1,57,25,5.5,110.9,4.5,104.5,-1.9,6.4,93.3,-2.5,0.259,-0.017,0.558,0.017,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-San Antonio Spurs,2016,12.6,30.3,67,15,10.3,110.3,3.9,99.0,-7.4,11.3,93.8,-2.0,0.246,-0.03,0.564,0.023,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-Oklahoma City Thunder,2016,12.2,25.8,55,27,7.1,113.1,6.7,105.6,-0.8,7.5,96.7,0.9,0.292,0.016,0.565,0.024,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-Golden State Warriors,2016,12.1,27.4,73,9,10.4,114.5,8.1,103.8,-2.6,10.7,99.3,3.5,0.25,-0.026,0.593,0.052,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Miami Heat,2016,5.5,28.4,48,34,1.5,106.1,-0.3,104.4,-2.0,1.7,93.6,-2.2,0.282,0.006,0.545,0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Clippers,2016,3.7,29.7,53,29,4.1,108.3,1.9,103.8,-2.6,4.5,95.8,0.0,0.318,0.042,0.556,0.015,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Atlanta Hawks,2016,3.4,28.2,48,34,3.5,105.1,-1.3,101.4,-5.0,3.7,97.1,1.3,0.237,-0.039,0.552,0.011,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Indiana Pacers,2016,2.7,26.9,45,37,1.6,104.6,-1.8,102.9,-3.5,1.7,96.6,0.8,0.268,-0.008,0.536,-0.005,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Toronto Raptors,2016,2.7,26.3,56,26,4.1,110.0,3.6,105.2,-1.2,4.8,92.9,-2.9,0.328,0.052,0.552,0.011,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-Portland Trail Blazers,2016,2.2,24.3,44,38,1.0,108.8,2.4,108.0,1.6,0.8,96.0,0.2,0.268,-0.008,0.548,0.007,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-Utah Jazz,2016,1.8,24.2,40,42,1.8,105.9,-0.5,103.9,-2.5,2.0,91.0,-4.8,0.286,0.01,0.54,-0.001,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-Boston Celtics,2016,1.2,25.2,48,34,2.8,106.8,0.4,103.6,-2.8,3.2,98.5,2.7,0.264,-0.012,0.531,-0.01,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Charlotte Hornets,2016,-0.1,26.0,48,34,2.4,107.1,0.7,104.3,-2.1,2.8,95.7,-0.1,0.28,0.004,0.545,0.004,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Detroit Pistons,2016,-0.5,25.0,44,38,0.4,106.1,-0.3,105.5,-0.9,0.6,95.1,-0.7,0.296,0.02,0.522,-0.019,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Washington Wizards,2016,-0.5,27.3,41,41,-0.5,105.3,-1.1,105.8,-0.6,-0.5,98.5,2.7,0.263,-0.013,0.544,0.003,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
-Chicago Bulls,2016,-1.4,27.6,42,40,-1.5,105.0,-1.4,106.5,0.1,-1.5,95.7,-0.1,0.24,-0.036,0.526,-0.015,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Orlando Magic,2016,-1.9,23.9,35,47,-1.7,105.1,-1.3,106.8,0.4,-1.7,96.0,0.2,0.232,-0.044,0.533,-0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
-Sacramento Kings,2016,-2.6,26.6,33,49,-2.3,106.0,-0.4,108.4,2.0,-2.4,100.0,4.2,0.295,0.019,0.546,0.005,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
-Houston Rockets,2016,-2.8,27.8,41,41,0.3,108.3,1.9,108.1,1.7,0.2,97.6,1.8,0.352,0.076,0.553,0.012,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Denver Nuggets,2016,-3.1,24.7,33,49,-2.8,105.6,-0.8,108.9,2.5,-3.3,95.7,-0.1,0.282,0.006,0.531,-0.01,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New York Knicks,2016,-3.1,27.2,32,50,-2.7,104.6,-1.8,107.6,1.2,-3.0,93.4,-2.4,0.255,-0.021,0.527,-0.014,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-Minnesota Timberwolves,2016,-3.9,24.6,29,53,-3.4,106.5,0.1,110.1,3.7,-3.6,95.2,-0.6,0.332,0.056,0.549,0.008,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
-Dallas Mavericks,2016,-4.0,30.3,42,40,0.0,106.7,0.3,107.0,0.6,-0.3,94.3,-1.5,0.265,-0.011,0.544,0.003,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-New Orleans Pelicans,2016,-4.0,26.6,30,52,-3.6,105.6,-0.8,109.5,3.1,-3.9,96.8,1.0,0.259,-0.017,0.537,-0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-Milwaukee Bucks,2016,-4.3,23.5,33,49,-4.0,104.3,-2.1,108.7,2.3,-4.4,94.2,-1.6,0.276,0.0,0.537,-0.004,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
-Memphis Grizzlies,2016,-4.6,30.5,42,40,-2.1,105.4,-1.0,107.8,1.4,-2.4,93.3,-2.5,0.295,0.019,0.524,-0.017,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Phoenix Suns,2016,-7.1,26.0,23,59,-6.3,102.2,-4.2,109.0,2.6,-6.8,98.5,2.7,0.271,-0.005,0.526,-0.015,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-Brooklyn Nets,2016,-7.9,26.9,21,61,-7.1,103.2,-3.2,110.9,4.5,-7.7,95.2,-0.6,0.246,-0.03,0.527,-0.014,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Los Angeles Lakers,2016,-9.9,26.5,17,65,-8.9,101.6,-4.8,111.6,5.2,-10.0,95.6,-0.2,0.292,0.016,0.509,-0.032,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-Philadelphia 76ers,2016,-11.2,23.3,10,72,-9.9,98.8,-7.6,109.2,2.8,-10.4,97.9,2.1,0.269,-0.007,0.519,-0.022,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+team,season,TR,Age,W,L,SRS,ORtg,rORtg,DRtg,rDRtg,NRtg,Pace,rPace,FTr,rFTr,TS%,rTS%
+Boston Celtics,2024,14,28.2,64,18,10.8,123.2,8.6,111.6,-3,11.6,97.2,-1.9,0.224,-0.044,0.609,0.028
+Minnesota Timberwolves,2024,9.3,27.2,56,26,6.4,115.6,1,109,-5.6,6.6,97.1,-2,0.27,0.002,0.594,0.013
+Oklahoma City Thunder,2024,9.1,23.4,57,25,7.4,119.5,4.9,112.1,-2.5,7.4,99.8,0.7,0.24,-0.028,0.608,0.027
+Dallas Mavericks,2024,7.8,26.5,50,32,2.3,117.6,3,115.4,0.8,2.2,100.1,1,0.251,-0.017,0.592,0.011
+Indiana Pacers,2024,5.8,25.3,47,35,2.8,121,6.4,118,3.4,3,101.7,2.6,0.222,-0.046,0.606,0.025
+Denver Nuggets,2024,5.2,27.1,57,25,5.2,118.5,3.9,113,-1.6,5.5,96.8,-2.3,0.224,-0.044,0.589,0.008
+New York Knicks,2024,4.1,26.4,50,32,4.4,118.2,3.6,113.4,-1.2,4.8,95.2,-3.9,0.246,-0.022,0.574,-0.007
+Golden State Warriors,2024,3,28.4,46,36,2.8,117.8,3.2,115.2,0.6,2.6,99.2,0.1,0.219,-0.049,0.586,0.005
+Orlando Magic,2024,2.9,24,47,35,1.5,113.4,-1.2,111.3,-3.3,2.1,96.9,-2.2,0.287,0.019,0.577,-0.004
+Philadelphia 76ers,2024,2.8,28.4,47,35,2.5,116.9,2.3,113.8,-0.8,3.1,97.5,-1.6,0.264,-0.004,0.574,-0.007
+Sacramento Kings,2024,2.5,26.4,46,36,2.3,116.9,2.3,115.2,0.6,1.7,98.8,-0.3,0.229,-0.039,0.582,0.001
+New Orleans Pelicans,2024,2,26,49,33,4.5,117.4,2.8,112.9,-1.7,4.5,97.9,-1.2,0.261,-0.007,0.591,0.01
+Milwaukee Bucks,2024,1.7,30.2,49,33,2.4,118.4,3.8,115.8,1.2,2.6,99.9,0.8,0.27,0.002,0.601,0.02
+Los Angeles Clippers,2024,1.3,30.4,51,31,3.4,118.8,4.2,115.4,0.8,3.4,97.2,-1.9,0.256,-0.012,0.599,0.018
+Houston Rockets,2024,1.3,25.1,41,41,1.2,114.5,-0.1,113.4,-1.2,1.1,99,-0.1,0.257,-0.011,0.565,-0.016
+Cleveland Cavaliers,2024,1.2,26.2,48,34,2,115.2,0.6,112.7,-1.9,2.5,97.2,-1.9,0.234,-0.034,0.586,0.005
+Los Angeles Lakers,2024,0.9,28,47,35,1.1,115.9,1.3,115.3,0.7,0.6,100.9,1.8,0.276,0.008,0.601,0.02
+Phoenix Suns,2024,0.8,29.3,49,33,3.1,117.6,3,114.6,0,3,98.3,-0.8,0.271,0.003,0.603,0.022
+Miami Heat,2024,-1.4,28,46,36,1.1,114,-0.6,112.2,-2.4,1.8,96.2,-2.9,0.257,-0.011,0.578,-0.003
+Chicago Bulls,2024,-1.8,28.1,39,43,-1.8,114.9,0.3,116.3,1.7,-1.4,96.3,-2.8,0.236,-0.032,0.568,-0.013
+Atlanta Hawks,2024,-2.6,26.2,36,46,-2.4,117.2,2.6,119.4,4.8,-2.2,100.1,1,0.251,-0.017,0.576,-0.005
+Brooklyn Nets,2024,-3.4,26.1,32,50,-3,113.2,-1.4,116.1,1.5,-2.9,96.9,-2.2,0.234,-0.034,0.561,-0.02
+Utah Jazz,2024,-4.6,25.1,31,51,-4.2,115.5,0.9,120.4,5.8,-4.9,99.5,0.4,0.251,-0.017,0.579,-0.002
+San Antonio Spurs,2024,-6.6,23,22,60,-5.8,110,-4.6,116.4,1.8,-6.4,101.1,2,0.22,-0.048,0.563,-0.018
+Toronto Raptors,2024,-7.1,25.9,25,57,-6.5,112.3,-2.3,118.8,4.2,-6.5,99.4,0.3,0.241,-0.027,0.566,-0.015
+Memphis Grizzlies,2024,-7.1,24.4,27,55,-6.6,107.2,-7.4,114.3,-0.3,-7.1,98.2,-0.9,0.238,-0.03,0.543,-0.038
+Portland Trail Blazers,2024,-9.1,24.1,21,61,-8.3,108.3,-6.3,117.5,2.9,-9.2,97.2,-1.9,0.228,-0.04,0.539,-0.042
+Detroit Pistons,2024,-10.2,23.8,14,68,-9.1,109.7,-4.9,118.8,4.2,-9.1,99.8,0.7,0.246,-0.022,0.562,-0.019
+Washington Wizards,2024,-10.4,24.9,15,67,-9.3,110.5,-4.1,119.6,5,-9.1,102.7,3.6,0.221,-0.047,0.567,-0.014
+Charlotte Hornets,2024,-10.9,25.1,21,61,-10.1,109.3,-5.3,119.8,5.2,-10.5,97.3,-1.8,0.212,-0.056,0.56,-0.021
+Denver Nuggets,2023,9,26.6,53,29,3,117.6,2.8,114.2,-0.6,3.4,98.1,-1,0.259,-0.007,0.601,0.02
+Boston Celtics,2023,7.7,27.4,57,25,6.4,118,3.2,111.5,-3.3,6.5,98.5,-0.6,0.243,-0.023,0.6,0.019
+Philadelphia 76ers,2023,5,28.2,54,28,4.4,117.7,2.9,113.3,-1.5,4.4,96.9,-2.2,0.3,0.034,0.608,0.027
+Miami Heat,2023,4.4,27.7,44,38,-0.1,113,-1.8,113.3,-1.5,-0.3,96.3,-2.8,0.27,0.004,0.574,-0.007
+Los Angeles Lakers,2023,4,27.9,43,39,0.4,114.5,-0.3,113.9,-0.9,0.6,101.3,2.2,0.299,0.033,0.582,0.001
+New York Knicks,2023,3.5,24.5,47,35,3,117.8,3,114.8,0,3,97.1,-2,0.285,0.019,0.577,-0.004
+Cleveland Cavaliers,2023,2.7,25.4,51,31,5.2,116.1,1.3,110.6,-4.2,5.5,95.7,-3.4,0.264,-0.002,0.59,0.009
+Golden State Warriors,2023,2.6,27.3,44,38,1.7,116.1,1.3,114.4,-0.4,1.7,101.6,2.5,0.224,-0.042,0.6,0.019
+Sacramento Kings,2023,1.8,25.4,48,34,2.3,119.4,4.6,116.8,2,2.6,100.3,1.2,0.284,0.018,0.608,0.027
+Phoenix Suns,2023,1.7,28.1,45,37,2.1,115.1,0.3,113,-1.8,2.1,98.2,-0.9,0.241,-0.025,0.57,-0.011
+New Orleans Pelicans,2023,1.7,25.9,42,40,1.6,114.4,-0.4,112.5,-2.3,1.9,99.1,0,0.279,0.013,0.582,0.001
+Toronto Raptors,2023,1.6,25.8,41,41,1.6,115.5,0.7,114,-0.8,1.5,97.1,-2,0.257,-0.009,0.555,-0.026
+Chicago Bulls,2023,1.4,27.5,40,42,1.4,113.5,-1.3,112.2,-2.6,1.3,98.5,-0.6,0.251,-0.015,0.587,0.006
+Milwaukee Bucks,2023,1.3,29.8,58,24,3.6,115.4,0.6,111.9,-2.9,3.5,100.5,1.4,0.248,-0.018,0.583,0.002
+Memphis Grizzlies,2023,1,24.4,51,31,3.6,115.1,0.3,111.2,-3.6,3.9,101.1,2,0.259,-0.007,0.57,-0.011
+Oklahoma City Thunder,2023,0.9,22.8,40,42,1,115.2,0.4,114.2,-0.6,1,101.1,2,0.256,-0.01,0.57,-0.011
+Atlanta Hawks,2023,0.1,24.9,41,41,0.3,116.6,1.8,116.3,1.5,0.3,100.7,1.6,0.244,-0.022,0.579,-0.002
+Dallas Mavericks,2023,-0.2,27.8,38,44,-0.1,116.8,2,116.7,1.9,0.1,96.6,-2.5,0.298,0.032,0.599,0.018
+Brooklyn Nets,2023,-0.7,28,45,37,1,115,0.2,114.1,-0.7,0.9,98.3,-0.8,0.26,-0.006,0.598,0.017
+Utah Jazz,2023,-1.2,26.5,37,45,-1,115.8,1,116.7,1.9,-0.9,100.5,1.4,0.265,-0.001,0.584,0.003
+Washington Wizards,2023,-1.3,26.2,35,47,-1.1,114.4,-0.4,115.6,0.8,-1.2,98.6,-0.5,0.258,-0.008,0.585,0.004
+Los Angeles Clippers,2023,-1.6,29.7,44,38,0.3,115,0.2,114.5,-0.3,0.5,98,-1.1,0.278,0.012,0.588,0.007
+Minnesota Timberwolves,2023,-2.5,25.8,42,40,-0.2,113.7,-1.1,113.8,-1,-0.1,101,1.9,0.271,0.005,0.592,0.011
+Orlando Magic,2023,-2.7,23.1,34,48,-2.4,111.6,-3.2,114.2,-0.6,-2.6,99.3,0.2,0.29,0.024,0.573,-0.008
+Indiana Pacers,2023,-3.1,24.5,35,47,-2.9,114.6,-0.2,117.7,2.9,-3.1,101.1,2,0.265,-0.001,0.581,0
+Portland Trail Blazers,2023,-4.3,25.1,33,49,-4,114.8,0,118.8,4,-4,98.6,-0.5,0.289,0.023,0.589,0.008
+Charlotte Hornets,2023,-6.5,25.3,27,55,-5.9,109.2,-5.6,115.3,0.5,-6.1,100.8,1.7,0.261,-0.005,0.55,-0.031
+Houston Rockets,2023,-8.4,22.1,22,60,-7.6,111.4,-3.4,119.3,4.5,-7.9,99,-0.1,0.285,0.019,0.554,-0.027
+Detroit Pistons,2023,-8.7,24.1,17,65,-7.7,110.7,-4.1,118.9,4.1,-8.2,99,-0.1,0.295,0.029,0.561,-0.02
+San Antonio Spurs,2023,-10.6,23.9,22,60,-9.8,110.2,-4.6,120,5.2,-9.8,101.6,2.5,0.229,-0.037,0.554,-0.027
+Golden State Warriors,2022,10.1,27.6,53,29,5.5,112.5,0.5,106.9,-5.1,5.6,98.4,0.2,0.235,-0.013,0.582,0.016
+Boston Celtics,2022,9,26.1,51,31,7,114.4,2.4,106.9,-5.1,7.5,96.6,-1.6,0.239,-0.009,0.578,0.012
+Miami Heat,2022,8.2,28.2,53,29,4.2,113.7,1.7,109.1,-2.9,4.6,95.9,-2.3,0.252,0.004,0.584,0.018
+Dallas Mavericks,2022,6.6,26.7,52,30,3.1,112.8,0.8,109.4,-2.6,3.4,95.4,-2.8,0.249,0.001,0.572,0.006
+Memphis Grizzlies,2022,6.5,24,56,26,5.4,114.6,2.6,109,-3,5.6,100.3,2.1,0.245,-0.003,0.553,-0.013
+Phoenix Suns,2022,5.7,27.5,64,18,6.9,114.8,2.8,107.3,-4.7,7.5,99.8,1.6,0.221,-0.027,0.581,0.015
+Milwaukee Bucks,2022,4.9,28.5,51,31,3.2,115.1,3.1,111.8,-0.2,3.3,99.9,1.7,0.257,0.009,0.58,0.014
+Philadelphia 76ers,2022,3.5,26.8,51,31,2.6,113.5,1.5,110.8,-1.2,2.7,96.2,-2,0.282,0.034,0.578,0.012
+Utah Jazz,2022,3.4,29.3,49,33,5.7,116.7,4.7,110.5,-1.5,6.2,97.1,-1.1,0.271,0.023,0.589,0.023
+Cleveland Cavaliers,2022,2.2,24.7,44,38,2,111.9,-0.1,109.7,-2.3,2.2,96.1,-2.1,0.261,0.013,0.571,0.005
+Minnesota Timberwolves,2022,1.7,24.2,46,36,2.5,114.3,2.3,111.7,-0.3,2.6,100.9,2.7,0.254,0.006,0.573,0.007
+Brooklyn Nets,2022,1.2,29.1,44,38,0.8,113.6,1.6,112.8,0.8,0.8,99,0.8,0.246,-0.002,0.576,0.01
+Charlotte Hornets,2022,0.6,25.5,43,39,0.5,114.1,2.1,113.7,1.7,0.4,100,1.8,0.234,-0.014,0.572,0.006
+Denver Nuggets,2022,0.4,27.7,48,34,2.2,114.5,2.5,112.1,0.1,2.4,97.8,-0.4,0.244,-0.004,0.59,0.024
+Los Angeles Clippers,2022,0.2,27.5,42,40,0.1,110.1,-1.9,110.1,-1.9,0,98,-0.2,0.224,-0.024,0.564,-0.002
+New Orleans Pelicans,2022,0.1,25.6,36,46,-0.8,112,0,113,1,-1,97.2,-1,0.264,0.016,0.557,-0.009
+Toronto Raptors,2022,0.1,24.8,48,34,2.4,112.9,0.9,110.5,-1.5,2.4,96,-2.2,0.234,-0.014,0.543,-0.023
+New York Knicks,2022,-0.2,26,37,45,0,110.4,-1.6,110.5,-1.5,-0.1,95.9,-2.3,0.28,0.032,0.55,-0.016
+San Antonio Spurs,2022,-0.2,24.5,34,48,0,112.4,0.4,112.3,0.3,0.1,100,1.8,0.22,-0.028,0.556,-0.01
+Atlanta Hawks,2022,-1.7,26.1,43,39,1.6,116.5,4.5,114.9,2.9,1.6,97.7,-0.5,0.253,0.005,0.581,0.015
+Los Angeles Lakers,2022,-3.4,30.2,33,49,-3.1,110.3,-1.7,113.3,1.3,-3,100.1,1.9,0.259,0.011,0.567,0.001
+Washington Wizards,2022,-3.5,25.9,35,47,-3.2,111.1,-0.9,114.5,2.5,-3.4,97,-1.2,0.252,0.004,0.568,0.002
+Chicago Bulls,2022,-3.8,26.3,46,36,-0.4,113.2,1.2,113.6,1.6,-0.4,98.3,0.1,0.248,0,0.579,0.013
+Indiana Pacers,2022,-3.9,26,25,57,-3.3,112.6,0.6,116.1,4.1,-3.5,98,-0.2,0.239,-0.009,0.564,-0.002
+Sacramento Kings,2022,-5.7,25.8,30,52,-5.3,109.9,-2.1,115.3,3.3,-5.4,99.8,1.6,0.264,0.016,0.561,-0.005
+Detroit Pistons,2022,-8.1,23.6,23,59,-7.4,106,-6,113.8,1.8,-7.8,98.4,0.2,0.249,0.001,0.533,-0.033
+Orlando Magic,2022,-8.5,23.3,22,60,-7.7,104.5,-7.5,112.5,0.5,-8,99.2,1,0.223,-0.025,0.538,-0.028
+Oklahoma City Thunder,2022,-8.6,22.4,24,58,-7.9,104.6,-7.4,112.8,0.8,-8.2,98.5,0.3,0.223,-0.025,0.53,-0.036
+Houston Rockets,2022,-9.1,24.1,20,62,-8.3,108.4,-3.6,116.7,4.7,-8.3,100.9,2.7,0.284,0.036,0.565,-0.001
+Portland Trail Blazers,2022,-9.1,25.6,27,55,-8.6,107.8,-4.2,116.9,4.9,-9.1,98.3,0.1,0.248,0,0.55,-0.016
+Phoenix Suns,2021,9.9,26.6,51,21,5.7,117.2,4.9,111.3,-1,5.9,97.2,-2,0.212,-0.035,0.597,0.025
+Los Angeles Clippers,2021,9.6,28.8,47,25,6,117.6,5.3,111.2,-1.1,6.4,96.9,-2.3,0.222,-0.025,0.599,0.027
+Milwaukee Bucks,2021,9.4,28.1,46,26,5.6,117.2,4.9,111.4,-0.9,5.8,102.2,3,0.233,-0.014,0.593,0.021
+Utah Jazz,2021,8,28.5,52,20,9,117.6,5.3,108.3,-4,9.3,98.5,-0.7,0.244,-0.003,0.597,0.025
+Brooklyn Nets,2021,7.3,28.2,48,24,4.2,118.3,6,113.8,1.5,4.5,99.5,0.3,0.258,0.011,0.61,0.038
+Philadelphia 76ers,2021,7.2,27.1,49,23,5.3,113.2,0.9,107.6,-4.7,5.6,99.5,0.3,0.293,0.046,0.579,0.007
+Atlanta Hawks,2021,4.2,25.4,41,31,2.1,115.7,3.4,113.3,1,2.4,97.6,-1.6,0.278,0.031,0.581,0.009
+Denver Nuggets,2021,3.3,26.1,47,25,4.8,117.1,4.8,112.1,-0.2,5,97.1,-2.1,0.219,-0.028,0.588,0.016
+Portland Trail Blazers,2021,2.1,27.4,42,30,1.8,117.8,5.5,116,3.7,1.8,98.4,-0.8,0.238,-0.009,0.577,0.005
+Dallas Mavericks,2021,2,26.3,42,30,2.3,115.4,3.1,113,0.7,2.4,97.3,-1.9,0.242,-0.005,0.582,0.01
+Los Angeles Lakers,2021,1.6,28.2,42,30,2.8,109.9,-2.4,107.1,-5.2,2.8,98.7,-0.5,0.271,0.024,0.569,-0.003
+Golden State Warriors,2021,1.3,26.7,39,33,1.1,111.1,-1.2,110.1,-2.2,1,102.2,3,0.239,-0.008,0.583,0.011
+Memphis Grizzlies,2021,0.2,24.2,38,34,1.1,112,-0.3,111,-1.3,1,100.4,1.2,0.232,-0.015,0.56,-0.012
+Indiana Pacers,2021,-0.2,26.5,34,38,-0.1,112.4,0.1,112.4,0.1,0,101.6,2.4,0.227,-0.02,0.575,0.003
+New Orleans Pelicans,2021,-0.4,24.8,31,41,-0.2,113.5,1.2,113.8,1.5,-0.3,100.1,0.9,0.293,0.046,0.57,-0.002
+New York Knicks,2021,-0.4,25.6,41,31,2.1,110.6,-1.7,108.2,-4.1,2.4,95.9,-3.3,0.242,-0.005,0.559,-0.013
+Toronto Raptors,2021,-0.9,26.6,27,45,-0.5,112,-0.3,112.5,0.2,-0.5,99.2,0,0.241,-0.006,0.567,-0.005
+Chicago Bulls,2021,-1.2,25.6,31,41,-0.9,111.1,-1.2,112,-0.3,-0.9,99,-0.2,0.197,-0.05,0.575,0.003
+Boston Celtics,2021,-1.7,25.1,36,36,1.3,114,1.7,112.5,0.2,1.5,98.3,-0.9,0.234,-0.013,0.574,0.002
+San Antonio Spurs,2021,-1.7,26.2,33,39,-1.6,111,-1.3,112.8,0.5,-1.8,98.9,-0.3,0.243,-0.004,0.554,-0.018
+Charlotte Hornets,2021,-2.1,24.6,33,39,-1.9,110.9,-1.4,112.8,0.5,-1.9,98.3,-0.9,0.238,-0.009,0.564,-0.008
+Miami Heat,2021,-2.9,27.4,40,32,-0.1,111.2,-1.1,111.2,-1.1,0,96.6,-2.6,0.252,0.005,0.581,0.009
+Sacramento Kings,2021,-3.7,25.6,31,41,-3.5,113.6,1.3,117.2,4.9,-3.6,100,0.8,0.248,0.001,0.578,0.006
+Washington Wizards,2021,-4.4,26.6,34,38,-1.9,111.2,-1.1,113,0.7,-1.8,104.1,4.9,0.288,0.041,0.569,-0.003
+Detroit Pistons,2021,-5.1,24.5,20,52,-4.4,108,-4.3,112.5,0.2,-4.5,97.9,-1.3,0.273,0.026,0.556,-0.016
+Minnesota Timberwolves,2021,-5.9,23.2,23,49,-5.3,109.5,-2.8,115,2.7,-5.5,101.6,2.4,0.254,0.007,0.555,-0.017
+Houston Rockets,2021,-8.4,26.5,17,55,-7.5,107.1,-5.2,114.9,2.6,-7.8,101.4,2.2,0.252,0.005,0.553,-0.019
+Cleveland Cavaliers,2021,-8.8,24,22,50,-8.2,105.8,-6.5,114.4,2.1,-8.6,97.3,-1.9,0.261,0.014,0.543,-0.029
+Orlando Magic,2021,-9.7,25.6,21,51,-9,105.1,-7.2,114.5,2.2,-9.4,98.7,-0.5,0.24,-0.007,0.527,-0.045
+Oklahoma City Thunder,2021,-10.8,22.8,22,50,-10.1,103.5,-8.8,114,1.7,-10.5,101,1.8,0.242,-0.005,0.539,-0.033
+Los Angeles Lakers,2020,10.5,29.5,52,19,6.3,112,1.4,106.3,-4.3,5.7,100.9,0.6,0.276,0.016,0.573,0.008
+Boston Celtics,2020,9.4,25.3,48,24,5.8,113.3,2.7,107,-3.6,6.3,99.5,-0.8,0.259,-0.001,0.57,0.005
+Los Angeles Clippers,2020,9.1,27.4,49,23,6.7,113.9,3.3,107.6,-3,6.3,101.5,1.2,0.295,0.035,0.577,0.012
+Milwaukee Bucks,2020,8.6,29.2,56,17,9.4,112.4,1.8,102.9,-7.7,9.5,105.1,4.8,0.271,0.011,0.583,0.018
+Toronto Raptors,2020,7.9,26.6,53,19,6,111.1,0.5,105,-5.6,6.1,100.9,0.6,0.264,0.004,0.574,0.009
+Miami Heat,2020,7.4,25.9,44,29,2.6,112.5,1.9,109.5,-1.1,3,98.3,-2,0.299,0.039,0.587,0.022
+Denver Nuggets,2020,3.9,25.6,46,27,2.4,113.1,2.5,111,0.4,2.1,97.1,-3.2,0.235,-0.025,0.567,0.002
+Houston Rockets,2020,3.9,29.2,44,28,3.1,112.9,2.3,110.1,-0.5,2.8,103.7,3.4,0.288,0.028,0.578,0.013
+Utah Jazz,2020,3.7,27.3,44,28,2.5,112.3,1.7,109.9,-0.7,2.4,98.6,-1.7,0.268,0.008,0.585,0.02
+Dallas Mavericks,2020,2.8,26.1,43,32,4.9,116.7,6.1,111.7,1.1,5,99.3,-1,0.264,0.004,0.581,0.016
+Oklahoma City Thunder,2020,1.2,25.5,44,28,2.3,110.8,0.2,108.8,-1.8,2,98.8,-1.5,0.29,0.03,0.573,0.008
+Philadelphia 76ers,2020,0.7,26.3,43,30,2.3,111.3,0.7,109,-1.6,2.3,99,-1.3,0.255,-0.005,0.566,0.001
+Phoenix Suns,2020,0.5,24.6,34,39,0.6,111.7,1.1,111.4,0.8,0.3,101.3,1,0.271,0.011,0.576,0.011
+Indiana Pacers,2020,0,25.6,45,28,1.6,110,-0.6,108,-2.6,2,98.9,-1.4,0.216,-0.044,0.565,0
+New Orleans Pelicans,2020,-0.8,25.4,30,42,-0.6,110.7,0.1,111.9,1.3,-1.2,103.7,3.4,0.256,-0.004,0.568,0.003
+San Antonio Spurs,2020,-0.8,27.6,32,39,-0.7,112.4,1.8,113.5,2.9,-1.1,100.5,0.2,0.262,0.002,0.572,0.007
+Memphis Grizzlies,2020,-1,24.1,34,39,-0.9,109.2,-1.4,110.3,-0.3,-1.1,102.8,2.5,0.24,-0.02,0.561,-0.004
+Orlando Magic,2020,-1.6,26.1,33,40,-0.9,108.5,-2.1,109.5,-1.1,-1,98.6,-1.7,0.256,-0.004,0.544,-0.021
+Sacramento Kings,2020,-1.8,27,31,41,-1.6,110.2,-0.4,112.2,1.6,-2,98.9,-1.4,0.23,-0.03,0.566,0.001
+Portland Trail Blazers,2020,-2.4,27.5,35,39,-0.6,113.7,3.1,114.8,4.2,-1.1,100.7,0.4,0.242,-0.018,0.57,0.005
+Brooklyn Nets,2020,-3.7,26.3,35,37,-1,108.9,-1.7,109.5,-1.1,-0.6,101.4,1.1,0.267,0.007,0.554,-0.011
+Chicago Bulls,2020,-4.5,24.4,22,43,-4,106.7,-3.9,109.8,-0.8,-3.1,99.7,-0.6,0.231,-0.029,0.547,-0.018
+Minnesota Timberwolves,2020,-4.7,24.8,19,45,-4,108.1,-2.5,112.2,1.6,-4.1,103.4,3.1,0.277,0.017,0.551,-0.014
+Detroit Pistons,2020,-5,25.9,20,46,-4.4,109,-1.6,112.7,2.1,-3.7,97.6,-2.7,0.261,0.001,0.561,-0.004
+Washington Wizards,2020,-5.7,25.1,25,47,-5.2,110.9,0.3,115.5,4.9,-4.6,102.7,2.4,0.27,0.01,0.562,-0.003
+New York Knicks,2020,-7.3,24.5,21,45,-6.7,106.5,-4.1,113,2.4,-6.5,98.6,-1.7,0.263,0.003,0.531,-0.034
+Charlotte Hornets,2020,-7.5,24.3,23,42,-7,106.3,-4.3,113.3,2.7,-7,95.8,-4.5,0.252,-0.008,0.539,-0.026
+Atlanta Hawks,2020,-8.4,24.1,20,47,-7.7,107.2,-3.4,114.8,4.2,-7.6,103,2.7,0.258,-0.002,0.554,-0.011
+Cleveland Cavaliers,2020,-8.5,25,19,46,-7.8,107.5,-3.1,115.4,4.8,-7.9,98.7,-1.6,0.227,-0.033,0.553,-0.012
+Golden State Warriors,2020,-9,24.4,15,50,-8.1,105.2,-5.4,113.8,3.2,-8.6,100.3,0,0.264,0.004,0.54,-0.025
+Milwaukee Bucks,2019,12.5,26.9,60,22,8,113.8,3.4,105.2,-5.2,8.6,103.3,3.3,0.255,-0.004,0.583,0.023
+Toronto Raptors,2019,10.1,27.3,58,24,5.5,113.1,2.7,107.1,-3.3,6,100.2,0.2,0.247,-0.012,0.579,0.019
+Golden State Warriors,2019,9.1,28.4,57,25,6.4,115.9,5.5,109.5,-0.9,6.4,100.9,0.9,0.227,-0.032,0.596,0.036
+Houston Rockets,2019,7.2,29.2,53,29,5,115.5,5.1,110.7,0.3,4.8,97.9,-2.1,0.279,0.02,0.581,0.021
+Denver Nuggets,2019,6.3,24.9,54,28,4.2,113,2.6,108.9,-1.5,4.1,97.7,-2.3,0.232,-0.027,0.558,-0.002
+Portland Trail Blazers,2019,5.4,26.2,53,29,4.4,114.7,4.3,110.5,0.1,4.2,99.1,-0.9,0.258,-0.001,0.568,0.008
+Boston Celtics,2019,4.7,25.7,49,33,3.9,112.2,1.8,107.8,-2.6,4.4,99.6,-0.4,0.215,-0.044,0.567,0.007
+Philadelphia 76ers,2019,4.4,26.4,51,31,2.3,112.6,2.2,110,-0.4,2.6,101.6,1.6,0.312,0.053,0.574,0.014
+Utah Jazz,2019,2.4,27.3,50,32,5.3,110.9,0.5,105.7,-4.7,5.2,100.3,0.3,0.295,0.036,0.572,0.012
+San Antonio Spurs,2019,2.1,28.8,48,34,1.8,112.9,2.5,111.2,0.8,1.7,98.3,-1.7,0.237,-0.022,0.572,0.012
+Oklahoma City Thunder,2019,1.8,25.7,49,33,3.6,110.3,-0.1,107,-3.4,3.3,102.8,2.8,0.266,0.007,0.545,-0.015
+Indiana Pacers,2019,1.6,27,48,34,2.8,109.9,-0.5,106.5,-3.9,3.4,98.1,-1.9,0.242,-0.017,0.561,0.001
+Los Angeles Clippers,2019,-0.1,27.2,48,34,1.1,112.4,2,111.5,1.1,0.9,101.7,1.7,0.326,0.067,0.575,0.015
+Miami Heat,2019,-0.5,27,39,43,-0.5,107.3,-3.1,107.6,-2.8,-0.3,98.2,-1.8,0.247,-0.012,0.542,-0.018
+Sacramento Kings,2019,-0.9,24.8,39,43,-0.8,110.4,0,111.5,1.1,-1.1,103.1,3.1,0.244,-0.015,0.554,-0.006
+Dallas Mavericks,2019,-1.2,26.9,33,49,-0.9,109.4,-1,110.7,0.3,-1.3,99,-1,0.291,0.032,0.555,-0.005
+Minnesota Timberwolves,2019,-1.2,26.2,36,46,-1,111.4,1,112.9,2.5,-1.5,100.2,0.2,0.267,0.008,0.552,-0.008
+Charlotte Hornets,2019,-1.4,26.6,39,43,-1.3,111.4,1,112.5,2.1,-1.1,98.7,-1.3,0.257,-0.002,0.554,-0.006
+New Orleans Pelicans,2019,-1.4,25.7,33,49,-1.1,111.4,1,112.6,2.2,-1.2,103.3,3.3,0.254,-0.005,0.563,0.003
+Los Angeles Lakers,2019,-1.5,26.2,37,45,-1.3,107.8,-2.6,109.5,-0.9,-1.7,103.2,3.2,0.257,-0.002,0.554,-0.006
+Memphis Grizzlies,2019,-2.4,27.7,33,49,-2.1,106.1,-4.3,108.8,-1.6,-2.7,96.6,-3.4,0.272,0.013,0.548,-0.012
+Orlando Magic,2019,-3,25.7,42,40,0.3,108.9,-1.5,108.1,-2.3,0.8,98.1,-1.9,0.216,-0.043,0.55,-0.01
+Brooklyn Nets,2019,-3.2,25.4,42,40,-0.4,109.6,-0.8,109.7,-0.7,-0.1,100.8,0.8,0.284,0.025,0.556,-0.004
+Detroit Pistons,2019,-3.6,26.9,41,41,-0.6,109,-1.4,109.2,-1.2,-0.2,97.4,-2.6,0.262,0.003,0.544,-0.016
+Washington Wizards,2019,-3.7,26.5,32,50,-3.3,111.1,0.7,113.9,3.5,-2.8,101.4,1.4,0.266,0.007,0.567,0.007
+Atlanta Hawks,2019,-6.5,25.1,29,53,-6.1,108.1,-2.3,113.9,3.5,-5.8,103.9,3.9,0.255,-0.004,0.555,-0.005
+Chicago Bulls,2019,-9.1,24,22,60,-8.3,104.8,-5.6,113.2,2.8,-8.4,99,-1,0.235,-0.024,0.541,-0.019
+Phoenix Suns,2019,-9.5,24,19,63,-8.6,105.9,-4.5,115.1,4.7,-9.2,100.5,0.5,0.259,0,0.552,-0.008
+New York Knicks,2019,-9.9,23.4,17,65,-8.9,104.5,-5.9,113.7,3.3,-9.2,99.6,-0.4,0.27,0.011,0.529,-0.031
+Cleveland Cavaliers,2019,-10.3,25.2,19,63,-9.4,107.7,-2.7,117.6,7.2,-9.9,96.6,-3.4,0.236,-0.023,0.54,-0.02
+Golden State Warriors,2018,12.8,28.8,58,24,5.8,113.6,5,107.6,-1,6,99.6,2.3,0.239,-0.013,0.603,0.047
+Houston Rockets,2018,9.8,29.8,65,17,8.2,114.7,6.1,106.1,-2.5,8.6,97.6,0.3,0.298,0.046,0.59,0.034
+Philadelphia 76ers,2018,5.2,25.8,52,30,4.3,109.5,0.9,105,-3.6,4.5,99.8,2.5,0.263,0.011,0.568,0.012
+Toronto Raptors,2018,5,25.8,59,23,7.3,113.8,5.2,105.9,-2.7,7.9,97.4,0.1,0.25,-0.002,0.575,0.019
+Boston Celtics,2018,4.5,24.7,55,27,3.2,107.6,-1,103.9,-4.7,3.7,96,-1.3,0.243,-0.009,0.552,-0.004
+Utah Jazz,2018,4.4,26.7,48,34,4.5,108.4,-0.2,103.9,-4.7,4.5,95.7,-1.6,0.26,0.008,0.564,0.008
+Cleveland Cavaliers,2018,2.9,30.6,50,32,0.6,112.9,4.3,111.9,3.3,1,98,0.7,0.275,0.023,0.584,0.028
+Indiana Pacers,2018,2.8,26.2,48,34,1.2,109.5,0.9,108.1,-0.5,1.4,96,-1.3,0.222,-0.03,0.557,0.001
+New Orleans Pelicans,2018,2.7,27.6,48,34,1.5,109.6,1,108.3,-0.3,1.3,100.5,3.2,0.237,-0.015,0.573,0.017
+Oklahoma City Thunder,2018,2.5,27.3,48,34,3.4,110.7,2.1,107.2,-1.4,3.5,96.7,-0.6,0.275,0.023,0.546,-0.01
+Denver Nuggets,2018,1.8,25.1,46,36,1.6,112.5,3.9,111,2.4,1.5,96.8,-0.5,0.258,0.006,0.57,0.014
+Washington Wizards,2018,1.4,26.9,43,39,0.5,109.3,0.7,108.7,0.1,0.6,96.6,-0.7,0.254,0.002,0.56,0.004
+Minnesota Timberwolves,2018,0.9,27.1,47,35,2.4,113.4,4.8,111.1,2.5,2.3,96,-1.3,0.28,0.028,0.566,0.01
+Portland Trail Blazers,2018,0.8,25.6,49,33,2.6,109.1,0.5,106.4,-2.2,2.7,96.5,-0.8,0.24,-0.012,0.549,-0.007
+San Antonio Spurs,2018,0.7,29.3,47,35,2.9,107.9,-0.7,104.8,-3.8,3.1,95,-2.3,0.245,-0.007,0.543,-0.013
+Milwaukee Bucks,2018,0.4,25.9,44,38,-0.5,109.8,1.2,110.1,1.5,-0.3,96.2,-1.1,0.281,0.029,0.571,0.015
+Los Angeles Clippers,2018,0.2,27,42,40,0.2,110.3,1.7,110.2,1.6,0.1,98.7,1.4,0.299,0.047,0.564,0.008
+Charlotte Hornets,2018,-0.1,26.6,36,46,0.1,109.4,0.8,109.1,0.5,0.3,98.4,1.1,0.312,0.06,0.549,-0.007
+Detroit Pistons,2018,-0.3,25.9,39,43,-0.3,107.2,-1.4,107.3,-1.3,-0.1,96.2,-1.1,0.227,-0.025,0.543,-0.013
+Los Angeles Lakers,2018,-1.7,23.7,35,47,-1.4,106.5,-2.1,108,-0.6,-1.5,100.3,3,0.264,0.012,0.548,-0.008
+Miami Heat,2018,-2.2,26.5,44,38,0.2,106.8,-1.8,106.3,-2.3,0.5,95.6,-1.7,0.229,-0.023,0.551,-0.005
+Dallas Mavericks,2018,-3.4,27.7,24,58,-2.7,106.3,-2.3,109.5,0.9,-3.2,95.6,-1.7,0.217,-0.035,0.544,-0.012
+New York Knicks,2018,-4,26.3,29,53,-3.5,107.1,-1.5,110.7,2.1,-3.6,96.8,-0.5,0.216,-0.036,0.544,-0.012
+Brooklyn Nets,2018,-4.2,25.1,28,54,-3.7,106.9,-1.7,110.6,2,-3.7,98.9,1.6,0.26,0.008,0.551,-0.005
+Orlando Magic,2018,-5.6,25.6,25,57,-4.9,105.2,-3.4,110.1,1.5,-4.9,98.1,0.8,0.238,-0.014,0.545,-0.011
+Atlanta Hawks,2018,-6,25.4,24,58,-5.3,105,-3.6,110.6,2,-5.6,98.3,1,0.236,-0.016,0.547,-0.009
+Memphis Grizzlies,2018,-6.6,26,22,60,-5.8,104.5,-4.1,111,2.4,-6.5,94.9,-2.4,0.255,0.003,0.539,-0.017
+Sacramento Kings,2018,-7.2,26.4,27,55,-6.6,103.7,-4.9,111.1,2.5,-7.4,94.9,-2.4,0.194,-0.058,0.529,-0.027
+Chicago Bulls,2018,-7.4,24.4,27,55,-6.8,103.8,-4.8,110.9,2.3,-7.1,98.3,1,0.216,-0.036,0.529,-0.027
+Phoenix Suns,2018,-9.6,23.7,21,61,-8.8,103.5,-5.1,112.8,4.2,-9.3,100.3,3,0.275,0.023,0.532,-0.024
+Golden State Warriors,2017,17.9,28.2,67,15,11.4,115.6,6.8,104,-4.8,11.6,99.8,3.4,0.259,-0.012,0.597,0.045
+Cleveland Cavaliers,2017,10.1,29.2,51,31,2.9,113.6,4.8,110.3,1.5,3.3,96.2,-0.2,0.275,0.004,0.58,0.028
+San Antonio Spurs,2017,8.7,29.6,61,21,7.1,111.1,2.3,103.5,-5.3,7.6,94.2,-2.2,0.263,-0.008,0.564,0.012
+Houston Rockets,2017,6.6,27.4,55,27,5.8,114.7,5.9,109,0.2,5.7,100,3.6,0.304,0.033,0.583,0.031
+Los Angeles Clippers,2017,4.3,30,51,31,4.4,112.7,3.9,108.2,-0.6,4.5,96.1,-0.3,0.312,0.041,0.574,0.022
+Utah Jazz,2017,3.3,26.8,51,31,4,109.6,0.8,105.3,-3.5,4.3,91.6,-4.8,0.288,0.017,0.563,0.011
+Washington Wizards,2017,2.6,26,49,33,1.4,111.2,2.4,109.3,0.5,1.9,97.4,1,0.254,-0.017,0.564,0.012
+Boston Celtics,2017,1.8,25.9,53,29,2.3,111.2,2.4,108.4,-0.4,2.8,96.8,0.4,0.273,0.002,0.567,0.015
+Toronto Raptors,2017,1.6,26.1,51,31,3.7,112.3,3.5,107.8,-1,4.5,94.7,-1.7,0.293,0.022,0.561,0.009
+Miami Heat,2017,0.8,26.5,41,41,0.8,107.8,-1,106.7,-2.1,1.1,95.2,-1.2,0.251,-0.02,0.541,-0.011
+Denver Nuggets,2017,0.7,25.2,40,42,0.7,113.2,4.4,112.7,3.9,0.5,98.3,1.9,0.276,0.005,0.568,0.016
+Milwaukee Bucks,2017,0,25.6,42,40,-0.5,109.1,0.3,109.3,0.5,-0.2,94.5,-1.9,0.274,0.003,0.565,0.013
+Memphis Grizzlies,2017,-0.2,29.5,43,39,1,107.7,-1.1,107.1,-1.7,0.6,92.3,-4.1,0.28,0.009,0.535,-0.017
+Charlotte Hornets,2017,-0.3,26.5,36,46,-0.1,108.8,0,108.6,-0.2,0.2,95.7,-0.7,0.279,0.008,0.547,-0.005
+Oklahoma City Thunder,2017,-0.5,24.7,47,35,1.1,108.3,-0.5,107.5,-1.3,0.8,97.8,1.4,0.295,0.024,0.54,-0.012
+Indiana Pacers,2017,-0.8,27,42,40,-0.6,108.6,-0.2,108.8,0,-0.2,95.9,-0.5,0.261,-0.01,0.558,0.006
+Minnesota Timberwolves,2017,-1,24,31,51,-0.6,110.8,2,112,3.2,-1.2,94.6,-1.8,0.287,0.016,0.555,0.003
+Atlanta Hawks,2017,-1.2,27.9,43,39,-1.2,104.9,-3.9,105.7,-3.1,-0.8,97.4,1,0.295,0.024,0.541,-0.011
+Detroit Pistons,2017,-1.4,25.4,37,45,-1.3,106,-2.8,107.1,-1.7,-1.1,95,-1.4,0.218,-0.053,0.521,-0.031
+Portland Trail Blazers,2017,-1.5,24.8,41,41,-0.2,110.3,1.5,110.8,2,-0.5,96.7,0.3,0.275,0.004,0.559,0.007
+Chicago Bulls,2017,-1.7,26.9,41,41,0,107.4,-1.4,107,-1.8,0.4,95.3,-1.1,0.259,-0.012,0.53,-0.022
+New Orleans Pelicans,2017,-2,25.7,34,48,-1.7,105.2,-3.6,107.4,-1.4,-2.2,98,1.6,0.256,-0.015,0.539,-0.013
+Dallas Mavericks,2017,-2.8,27.6,33,49,-2.5,105.6,-3.2,108.8,0,-3.2,92.2,-4.2,0.225,-0.046,0.541,-0.011
+Sacramento Kings,2017,-3.6,27.9,32,50,-3.3,107.3,-1.5,111.3,2.5,-4,94.9,-1.5,0.284,0.013,0.556,0.004
+New York Knicks,2017,-4.3,27.3,31,51,-3.9,107.7,-1.1,111.5,2.7,-3.8,96,-0.4,0.239,-0.032,0.534,-0.018
+Phoenix Suns,2017,-5.8,25,24,58,-5.1,106.6,-2.2,112.2,3.4,-5.6,100.3,3.9,0.297,0.026,0.538,-0.014
+Philadelphia 76ers,2017,-6.4,24.6,28,54,-5.8,103.2,-5.6,108.9,0.1,-5.7,98.5,2.1,0.258,-0.013,0.539,-0.013
+Los Angeles Lakers,2017,-6.9,25.1,26,56,-6.3,106,-2.8,113,4.2,-7,98.5,2.1,0.259,-0.012,0.537,-0.015
+Orlando Magic,2017,-7.1,25.3,29,53,-6.6,103.7,-5.1,110.5,1.7,-6.8,96.8,0.4,0.246,-0.025,0.524,-0.028
+Brooklyn Nets,2017,-7.6,26,20,62,-6.7,104.1,-4.7,110.7,1.9,-6.6,101.3,4.9,0.289,0.018,0.551,-0.001
+Cleveland Cavaliers,2016,12.9,28.1,57,25,5.5,110.9,4.5,104.5,-1.9,6.4,93.3,-2.5,0.259,-0.017,0.558,0.017
+San Antonio Spurs,2016,12.6,30.3,67,15,10.3,110.3,3.9,99,-7.4,11.3,93.8,-2,0.246,-0.03,0.564,0.023
+Oklahoma City Thunder,2016,12.2,25.8,55,27,7.1,113.1,6.7,105.6,-0.8,7.5,96.7,0.9,0.292,0.016,0.565,0.024
+Golden State Warriors,2016,12.1,27.4,73,9,10.4,114.5,8.1,103.8,-2.6,10.7,99.3,3.5,0.25,-0.026,0.593,0.052
+Miami Heat,2016,5.5,28.4,48,34,1.5,106.1,-0.3,104.4,-2,1.7,93.6,-2.2,0.282,0.006,0.545,0.004
+Los Angeles Clippers,2016,3.7,29.7,53,29,4.1,108.3,1.9,103.8,-2.6,4.5,95.8,0,0.318,0.042,0.556,0.015
+Atlanta Hawks,2016,3.4,28.2,48,34,3.5,105.1,-1.3,101.4,-5,3.7,97.1,1.3,0.237,-0.039,0.552,0.011
+Indiana Pacers,2016,2.7,26.9,45,37,1.6,104.6,-1.8,102.9,-3.5,1.7,96.6,0.8,0.268,-0.008,0.536,-0.005
+Toronto Raptors,2016,2.7,26.3,56,26,4.1,110,3.6,105.2,-1.2,4.8,92.9,-2.9,0.328,0.052,0.552,0.011
+Portland Trail Blazers,2016,2.2,24.3,44,38,1,108.8,2.4,108,1.6,0.8,96,0.2,0.268,-0.008,0.548,0.007
+Utah Jazz,2016,1.8,24.2,40,42,1.8,105.9,-0.5,103.9,-2.5,2,91,-4.8,0.286,0.01,0.54,-0.001
+Boston Celtics,2016,1.2,25.2,48,34,2.8,106.8,0.4,103.6,-2.8,3.2,98.5,2.7,0.264,-0.012,0.531,-0.01
+Charlotte Hornets,2016,-0.1,26,48,34,2.4,107.1,0.7,104.3,-2.1,2.8,95.7,-0.1,0.28,0.004,0.545,0.004
+Detroit Pistons,2016,-0.5,25,44,38,0.4,106.1,-0.3,105.5,-0.9,0.6,95.1,-0.7,0.296,0.02,0.522,-0.019
+Washington Wizards,2016,-0.5,27.3,41,41,-0.5,105.3,-1.1,105.8,-0.6,-0.5,98.5,2.7,0.263,-0.013,0.544,0.003
+Chicago Bulls,2016,-1.4,27.6,42,40,-1.5,105,-1.4,106.5,0.1,-1.5,95.7,-0.1,0.24,-0.036,0.526,-0.015
+Orlando Magic,2016,-1.9,23.9,35,47,-1.7,105.1,-1.3,106.8,0.4,-1.7,96,0.2,0.232,-0.044,0.533,-0.008
+Sacramento Kings,2016,-2.6,26.6,33,49,-2.3,106,-0.4,108.4,2,-2.4,100,4.2,0.295,0.019,0.546,0.005
+Houston Rockets,2016,-2.8,27.8,41,41,0.3,108.3,1.9,108.1,1.7,0.2,97.6,1.8,0.352,0.076,0.553,0.012
+Denver Nuggets,2016,-3.1,24.7,33,49,-2.8,105.6,-0.8,108.9,2.5,-3.3,95.7,-0.1,0.282,0.006,0.531,-0.01
+New York Knicks,2016,-3.1,27.2,32,50,-2.7,104.6,-1.8,107.6,1.2,-3,93.4,-2.4,0.255,-0.021,0.527,-0.014
+Minnesota Timberwolves,2016,-3.9,24.6,29,53,-3.4,106.5,0.1,110.1,3.7,-3.6,95.2,-0.6,0.332,0.056,0.549,0.008
+Dallas Mavericks,2016,-4,30.3,42,40,0,106.7,0.3,107,0.6,-0.3,94.3,-1.5,0.265,-0.011,0.544,0.003
+New Orleans Pelicans,2016,-4,26.6,30,52,-3.6,105.6,-0.8,109.5,3.1,-3.9,96.8,1,0.259,-0.017,0.537,-0.004
+Milwaukee Bucks,2016,-4.3,23.5,33,49,-4,104.3,-2.1,108.7,2.3,-4.4,94.2,-1.6,0.276,0,0.537,-0.004
+Memphis Grizzlies,2016,-4.6,30.5,42,40,-2.1,105.4,-1,107.8,1.4,-2.4,93.3,-2.5,0.295,0.019,0.524,-0.017
+Phoenix Suns,2016,-7.1,26,23,59,-6.3,102.2,-4.2,109,2.6,-6.8,98.5,2.7,0.271,-0.005,0.526,-0.015
+Brooklyn Nets,2016,-7.9,26.9,21,61,-7.1,103.2,-3.2,110.9,4.5,-7.7,95.2,-0.6,0.246,-0.03,0.527,-0.014
+Los Angeles Lakers,2016,-9.9,26.5,17,65,-8.9,101.6,-4.8,111.6,5.2,-10,95.6,-0.2,0.292,0.016,0.509,-0.032
+Philadelphia 76ers,2016,-11.2,23.3,10,72,-9.9,98.8,-7.6,109.2,2.8,-10.4,97.9,2.1,0.269,-0.007,0.519,-0.022
