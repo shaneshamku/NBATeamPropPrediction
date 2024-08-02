@@ -1,38 +1,74 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: center; /* Center vertically */
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.App-header {
+  background-color: #282c34;
+  padding: 10px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  flex: 1; /* Allow main to take up remaining space */
+}
+
+select {
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.games-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  gap: 20px;
+  padding: 20px;
+  width: 100%;
+  max-width: 1200px; /* Limit the maximum width to avoid stretching */
+  margin: 0 auto; /* Center the container horizontally */
+}
+
+.game-box {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+  flex: 0 1 150px; /* Ensure the boxes have a minimum width of 150px */
+  max-width: 200px; /* Optional: Limit the maximum width of the boxes */
+}
+
+.game-box:hover {
+  background-color: #555;
+  transform: scale(1.05);
+}
+
+.game-box h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.game-box p {
+  margin: 10px 0 0;
 }

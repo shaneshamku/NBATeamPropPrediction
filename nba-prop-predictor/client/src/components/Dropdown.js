@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 
-const Dropdowns = ({ onFilterChange }) => {
-  const [season, setSeason] = useState('');
-  const [month, setMonth] = useState('');
-  const [day, setDay] = useState('');
+const Dropdowns = ({ onFilterChange, filters }) => {
+  const [season, setSeason] = useState(filters.season);
+  const [month, setMonth] = useState(filters.month);
+  const [day, setDay] = useState(filters.day);
   const [availableMonths, setAvailableMonths] = useState([]);
   const [availableDays, setAvailableDays] = useState([]);
 

@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import logo from '../logo.svg';
 import '../App.css';
 import GamesList from './GamesList';
 import Dropdowns from './Dropdown'; // Ensure the file name is correct
@@ -25,12 +24,12 @@ function App() {
               path="/"
               element={
                 <>
-                  <Dropdowns onFilterChange={handleFilterChange} />
+                  <Dropdowns onFilterChange={handleFilterChange} filters={filters} />
                   <GamesList season={filters.season} month={filters.month} day={filters.day} />
                 </>
               }
             />
-            <Route path="/game/:gameId" element={<GameDetails />} />
+            <Route path="/game-details/:team/:team_opp/:year/:month/:day" element={<GameDetails />} />
           </Routes>
         </main>
       </div>

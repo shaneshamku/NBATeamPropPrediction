@@ -24,7 +24,31 @@ const gameSchema = new mongoose.Schema({
     actual: Number,
 }, { collection: 'predictions' });
 
+const oddsSchema = new mongoose.Schema({
+  Date: Date,
+  team: String,
+  team_opp: String,
+  team_proj_total: Number,
+  team_opp_proj_total: Number,
+  home_spread: Number,
+  away_spread: Number,
+  team_total_odds: Number,
+  team_opp_total_odds: Number,
+  game_proj_total: Number,
+  HomeML_american: Number,
+  AwayML_american: Number,
+  HomeML_decimal: Number,
+  AwayML_decimal: Number,
+  oddsmakers_margin: Number,
+  year: Number,
+  month: Number,
+  day: Number,
+  
+}, { collection: 'odds' });
+
 const Game = mongoose.model('Game', gameSchema);
+const Odds = mongoose.model('Odds', oddsSchema);
+
 
 // Route for the root URL
 app.get('/', (req, res) => {
@@ -80,6 +104,30 @@ app.get('/days', async (req, res) => {
     const days = [...new Set(games.map(game => game.day))].sort((a, b) => a - b); // Get unique days and sort them
     res.json(days);
   } catch (error) {
+    res.status(500).json({ message: 'Server error', error });
+  }
+});
+
+// Route to fetch game and odds details based on game parameters
+app.get('/game-details', async (req, res) => {
+  const { team, team_opp, year, month, day } = req.query;
+  console.log('Received query parameters:', { team, team_opp, year, month, day });
+
+  try {
+    // const game = await Game.findOne({ team, team_opp, year: parseInt(year), month: parseInt(month), day: parseInt(day) });
+    // if (!game) {
+    //   return res.status(404).json({ message: 'Game not found' });
+    // }
+
+    const odds = await Odds.findOne({ team, team_opp, year: parseInt(year), month: parseInt(month), day: parseInt(day) });
+    console.log('Odd Details found:', odds);
+    if (!odds) {
+      return res.status(404).json({ message: 'Odds not found' });
+    }
+
+    res.json({ odds });
+  } catch (error) {
+    console.error('Error fetching game details:', error);
     res.status(500).json({ message: 'Server error', error });
   }
 });
