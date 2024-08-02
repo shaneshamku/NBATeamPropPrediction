@@ -125,7 +125,15 @@ app.get('/game-details', async (req, res) => {
       return res.status(404).json({ message: 'Odds not found' });
     }
 
-    res.json({ odds });
+    const homeGame = await Game.findOne({ team, year: parseInt(year), month: parseInt(month), day: parseInt(day) });
+    console.log('Home Game found:', homeGame);
+
+    const awayGame = await Game.findOne({ team: team_opp, year: parseInt(year), month: parseInt(month), day: parseInt(day) });
+    console.log('Away Game found:', awayGame);
+
+
+
+    res.json({ odds, homeGame, awayGame });
   } catch (error) {
     console.error('Error fetching game details:', error);
     res.status(500).json({ message: 'Server error', error });

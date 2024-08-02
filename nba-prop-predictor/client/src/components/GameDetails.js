@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 
 const GameDetails = () => {
   const { team, team_opp, year, month, day } = useParams();
-  const [odds, setOdds] = useState(null);
+  const [details, setDetails] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -18,7 +18,7 @@ const GameDetails = () => {
         return response.json();
       })
       .then(data => {
-        setOdds(data.odds);
+        setDetails(data);
         setLoading(false);
       })
       .catch(error => {
@@ -50,9 +50,11 @@ const GameDetails = () => {
     return <div>Error: {error.message}</div>;
   }
 
-  if (!odds) {
-    return <div>No odds data available</div>;
+  if (!details) {
+    return <div>No data available</div>;
   }
+
+  const { odds, homeGame, awayGame } = details;
 
   return (
     <div>
@@ -61,11 +63,14 @@ const GameDetails = () => {
       <div>
         <h3>Home Team: {odds.team}</h3>
         <p>Home Team Line: {odds.team_proj_total}</p>
+        <p>Home Team Prediction: {homeGame ? Math.round(homeGame['prediction adj']): 'N/A'}</p>
+
         <p>Home Team Odds: {odds.team_total_odds}</p>
       </div>
       <div>
         <h3>Away Team: {odds.team_opp}</h3>
         <p>Away Team Line: {odds.team_opp_proj_total}</p>
+        <p>Away Team Prediction: {awayGame ? Math.round(awayGame['prediction adj']) : 'N/A'}</p>
         <p>Away Team Odds: {odds.team_opp_total_odds}</p>
       </div>
     </div>
