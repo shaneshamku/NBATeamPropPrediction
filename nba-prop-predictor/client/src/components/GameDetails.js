@@ -56,8 +56,10 @@ function calculateBetRating(bettingLine, modelPrediction, oddsHigher, oddsLower)
   }
 
   let betRating = Math.abs(difference) * strengthFactor * avgOdds;
-  if (betRating > 10) betRating = 10;
-  betRating = betRating.toFixed(1);
+  if (betRating > 8.5 && betRating < 10) betRating = 9.5;
+  if (betRating >= 10) betRating = 10;
+  if (betRating < 3) betRating = betRating + 1;
+  betRating = (betRating / 1.2).toFixed(1); // Scale back ratings by 20%
 
   let recommendation = '';
   if (betRating >= 9) {
@@ -130,7 +132,6 @@ const GameDetails = () => {
     }
   }, [team, team_opp, year, month, day]);
 
-
   if (loading) {
     return <div>Loading...</div>;
   }
@@ -145,33 +146,12 @@ const GameDetails = () => {
 
   const { odds, homeGame, awayGame } = details;
 
-  // return (
-  //   <div>
-  //     <h2>{team} vs {team_opp}</h2>
-  //     <p>Date: {`${month}/${day}/${year}`}</p>
-  //     <div>
-  //       <h3>Home Team: {odds.team}</h3>
-  //       <p>Home Team Line: {odds.team_proj_total}</p>
-  //       <p>Home Team Prediction: {homeGame ? Math.round(homeGame['prediction adj']): 'N/A'}</p>
-
-  //       <p>Home Team Odds: {odds.team_total_odds}</p>
-  //     </div>
-  //     <div>
-  //       <h3>Away Team: {odds.team_opp}</h3>
-  //       <p>Away Team Line: {odds.team_opp_proj_total}</p>
-  //       <p>Away Team Prediction: {awayGame ? Math.round(awayGame['prediction adj']) : 'N/A'}</p>
-  //       <p>Away Team Odds: {odds.team_opp_total_odds}</p>
-  //     </div>
-  //   </div>
-  // );
-
   const roundedHomePredictionAdj = homeGame ? Math.round(homeGame['prediction adj']) : 'N/A';
   const roundedAwayPredictionAdj = awayGame ? Math.round(awayGame['prediction adj']) : 'N/A';
 
   const homeBet = calculateBetRating(odds.team_proj_total, roundedHomePredictionAdj, odds.team_total_odds, odds.team_total_odds);
   const awayBet = calculateBetRating(odds.team_opp_proj_total, roundedAwayPredictionAdj, odds.team_opp_total_odds, odds.team_opp_total_odds);
 
-    
   return (
     <div className="game-details">
       <h2>{team} vs {team_opp}</h2>
@@ -179,44 +159,38 @@ const GameDetails = () => {
       <div className="grid-container">
         <div className="grid-item" style={{ backgroundColor: teamColors[team] }}>{team}</div>
         <div className="grid-item" style={{ backgroundColor: teamColors[team_opp] }}>{team_opp}</div>
-
         <div className="grid-item" style={{ backgroundColor: teamColors[team] }}>Line: {odds.team_proj_total} PTS</div>
         <div className="grid-item" style={{ backgroundColor: teamColors[team_opp] }}>Line: {odds.team_opp_proj_total} PTS</div>
-
         <div className="grid-item" style={{ backgroundColor: teamColors[team] }}>
           <div>Odds Over: {odds.team_total_odds}</div>
-          <div>Odds Under: {odds.team_total_odds}</div>
+          <div>Odds Under: {odds.team_opp_total_odds}</div>
         </div>
         <div className="grid-item" style={{ backgroundColor: teamColors[team_opp] }}>
           <div>Odds Over: {odds.team_opp_total_odds}</div>
-          <div>Odds Under: {odds.team_opp_total_odds}</div>
+          <div>Odds Under: {odds.team_total_odds}</div>
         </div>
-
         <div
           className="grid-item bottom-row"
           style={{ backgroundColor: getBetRatingColor(homeBet.betRating) }}
         >
           <div>{team} Projected PTS: {roundedHomePredictionAdj}</div>
-          <div>Recommendation: {homeBet.recommendation}</div>
+          <div>Recommendation: Bet {roundedHomePredictionAdj > odds.team_proj_total ? 'Over' : 'Under'}</div>
           <div>Bet Rating: {homeBet.betRating}/10</div>
+          <div>{homeBet.recommendation}</div>
         </div>
         <div
           className="grid-item bottom-row"
           style={{ backgroundColor: getBetRatingColor(awayBet.betRating) }}
         >
           <div>{team_opp} Projected PTS: {roundedAwayPredictionAdj}</div>
-          <div>Recommendation: {awayBet.recommendation}</div>
+          <div>Recommendation: Bet {roundedAwayPredictionAdj > odds.team_opp_proj_total ? 'Over' : 'Under'}</div>
           <div>Bet Rating: {awayBet.betRating}/10</div>
+          <div>{awayBet.recommendation}</div>
         </div>
       </div>
       <button onClick={() => window.history.back()}>Back</button>
     </div>
   );
 };
-
-
-
-
-
 
 export default GameDetails;

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import '../App.css';
+
 import GamesList from './GamesList';
 import Dropdowns from './Dropdown'; // Ensure the file name is correct
 import GameDetails from './GameDetails'; // Import GameDetails component
