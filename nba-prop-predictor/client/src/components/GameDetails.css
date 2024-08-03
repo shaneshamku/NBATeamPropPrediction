@@ -1,0 +1,45 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto auto; /* Added one more row for the 4th row */
+    gap: 20px;
+  }
+  
+  .grid-item {
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .bottom-row {
+    grid-column: span 1; /* Ensures each item takes one column */
+    text-align: center;
+    padding: 30px;
+    font-weight: 500 ;
+    color: #fff;
+  }
+  
+  .game-details h2 {
+    margin-bottom: 20px;
+  }
+  
+  .game-details p {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  

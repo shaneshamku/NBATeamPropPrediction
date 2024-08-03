@@ -1,5 +1,94 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
+import './GameDetails.css'; // Make sure to import the CSS file
+
+// Team colors legend
+const teamColors = {
+  ATL: '#e03a3e',
+  BOS: '#007A33',
+  CHA: '#1D1160',
+  CHI: '#CE1141',
+  CLE: '#860038',
+  DAL: '#00538C',
+  DEN: '#FEC524',
+  DET: '#C8102E',
+  GSW: '#1D428A',
+  HOU: '#CE1141',
+  IND: '#002D62',
+  LAC: '#bec0c2',
+  LAL: '#552583',
+  MEM: '#5D76A9',
+  MIA: '#98002E',
+  MIL: '#00471B',
+  MIN: '#0C2340',
+  NOP: '#85714D',
+  NYK: '#006BB6',
+  BKN: '#000000',
+  OKC: '#007AC1',
+  ORL: '#0077C0',
+  PHI: '#006bb6',
+  PHX: '#e56020',
+  POR: '#E03A3E',
+  SAC: '#5A2D81',
+  TOR: '#CE1141',
+  UTA: '#002B5C',
+  WAS: '#002B5C'
+};
+
+// Bet rating calculation function
+function calculateBetRating(bettingLine, modelPrediction, oddsHigher, oddsLower) {
+  const difference = modelPrediction - bettingLine;
+  const avgOdds = (oddsHigher + oddsLower) / 2;
+
+  let strengthFactor = 0;
+  if (Math.abs(difference) >= 10) {
+    strengthFactor = 2.5;
+  } else if (Math.abs(difference) >= 8) {
+    strengthFactor = 2;
+  } else if (Math.abs(difference) >= 6) {
+    strengthFactor = 1.5;
+  } else if (Math.abs(difference) >= 4) {
+    strengthFactor = 1;
+  } else if (Math.abs(difference) >= 2) {
+    strengthFactor = 0.5;
+  } else {
+    strengthFactor = 0.1;
+  }
+
+  let betRating = Math.abs(difference) * strengthFactor * avgOdds;
+  if (betRating > 10) betRating = 10;
+  betRating = betRating.toFixed(1);
+
+  let recommendation = '';
+  if (betRating >= 9) {
+    recommendation = 'Elite';
+  } else if (betRating >= 8) {
+    recommendation = 'Very Strong';
+  } else if (betRating >= 7) {
+    recommendation = 'Strong';
+  } else if (betRating >= 6) {
+    recommendation = 'Good';
+  } else if (betRating >= 4) {
+    recommendation = 'Average';
+  } else if (betRating >= 2) {
+    recommendation = 'Weak';
+  } else {
+    recommendation = 'Very Weak';
+  }
+
+  return { betRating, recommendation };
+}
+
+// Function to get color based on bet rating
+function getBetRatingColor(betRating) {
+  if (betRating >= 9) return '#006400'; // Dark green
+  if (betRating >= 8) return '#228B22'; // Forest green
+  if (betRating >= 7) return '#32CD32'; // Lime green
+  if (betRating >= 6) return '#ADFF2F'; // Green yellow
+  if (betRating >= 4) return '#FFD700'; // Gold
+  if (betRating >= 2) return '#FFA500'; // Orange
+  return '#FF4500'; // Orange red
+}
 
 const GameDetails = () => {
   const { team, team_opp, year, month, day } = useParams();
@@ -56,25 +145,78 @@ const GameDetails = () => {
 
   const { odds, homeGame, awayGame } = details;
 
+  // return (
+  //   <div>
+  //     <h2>{team} vs {team_opp}</h2>
+  //     <p>Date: {`${month}/${day}/${year}`}</p>
+  //     <div>
+  //       <h3>Home Team: {odds.team}</h3>
+  //       <p>Home Team Line: {odds.team_proj_total}</p>
+  //       <p>Home Team Prediction: {homeGame ? Math.round(homeGame['prediction adj']): 'N/A'}</p>
+
+  //       <p>Home Team Odds: {odds.team_total_odds}</p>
+  //     </div>
+  //     <div>
+  //       <h3>Away Team: {odds.team_opp}</h3>
+  //       <p>Away Team Line: {odds.team_opp_proj_total}</p>
+  //       <p>Away Team Prediction: {awayGame ? Math.round(awayGame['prediction adj']) : 'N/A'}</p>
+  //       <p>Away Team Odds: {odds.team_opp_total_odds}</p>
+  //     </div>
+  //   </div>
+  // );
+
+  const roundedHomePredictionAdj = homeGame ? Math.round(homeGame['prediction adj']) : 'N/A';
+  const roundedAwayPredictionAdj = awayGame ? Math.round(awayGame['prediction adj']) : 'N/A';
+
+  const homeBet = calculateBetRating(odds.team_proj_total, roundedHomePredictionAdj, odds.team_total_odds, odds.team_total_odds);
+  const awayBet = calculateBetRating(odds.team_opp_proj_total, roundedAwayPredictionAdj, odds.team_opp_total_odds, odds.team_opp_total_odds);
+
+    
   return (
-    <div>
+    <div className="game-details">
       <h2>{team} vs {team_opp}</h2>
       <p>Date: {`${month}/${day}/${year}`}</p>
-      <div>
-        <h3>Home Team: {odds.team}</h3>
-        <p>Home Team Line: {odds.team_proj_total}</p>
-        <p>Home Team Prediction: {homeGame ? Math.round(homeGame['prediction adj']): 'N/A'}</p>
+      <div className="grid-container">
+        <div className="grid-item" style={{ backgroundColor: teamColors[team] }}>{team}</div>
+        <div className="grid-item" style={{ backgroundColor: teamColors[team_opp] }}>{team_opp}</div>
 
-        <p>Home Team Odds: {odds.team_total_odds}</p>
+        <div className="grid-item" style={{ backgroundColor: teamColors[team] }}>Line: {odds.team_proj_total} PTS</div>
+        <div className="grid-item" style={{ backgroundColor: teamColors[team_opp] }}>Line: {odds.team_opp_proj_total} PTS</div>
+
+        <div className="grid-item" style={{ backgroundColor: teamColors[team] }}>
+          <div>Odds Over: {odds.team_total_odds}</div>
+          <div>Odds Under: {odds.team_total_odds}</div>
+        </div>
+        <div className="grid-item" style={{ backgroundColor: teamColors[team_opp] }}>
+          <div>Odds Over: {odds.team_opp_total_odds}</div>
+          <div>Odds Under: {odds.team_opp_total_odds}</div>
+        </div>
+
+        <div
+          className="grid-item bottom-row"
+          style={{ backgroundColor: getBetRatingColor(homeBet.betRating) }}
+        >
+          <div>{team} Projected PTS: {roundedHomePredictionAdj}</div>
+          <div>Recommendation: {homeBet.recommendation}</div>
+          <div>Bet Rating: {homeBet.betRating}/10</div>
+        </div>
+        <div
+          className="grid-item bottom-row"
+          style={{ backgroundColor: getBetRatingColor(awayBet.betRating) }}
+        >
+          <div>{team_opp} Projected PTS: {roundedAwayPredictionAdj}</div>
+          <div>Recommendation: {awayBet.recommendation}</div>
+          <div>Bet Rating: {awayBet.betRating}/10</div>
+        </div>
       </div>
-      <div>
-        <h3>Away Team: {odds.team_opp}</h3>
-        <p>Away Team Line: {odds.team_opp_proj_total}</p>
-        <p>Away Team Prediction: {awayGame ? Math.round(awayGame['prediction adj']) : 'N/A'}</p>
-        <p>Away Team Odds: {odds.team_opp_total_odds}</p>
-      </div>
+      <button onClick={() => window.history.back()}>Back</button>
     </div>
   );
 };
+
+
+
+
+
 
 export default GameDetails;

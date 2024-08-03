@@ -16,7 +16,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <h1>NBA Prop Predictor Home Page</h1>
+          <h1>NBA Prop Predictor</h1>
         </header>
         <main>
           <Routes>
