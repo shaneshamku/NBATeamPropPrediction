@@ -1,5 +1,7 @@
 # NBATeamPropPrediction
 
+Demo - https://drive.google.com/file/d/1FEiIlLSZ1SfUDhlv0ACEDHuNmZ5IYrhr/view?usp=sharing
+
 This project centers on the development of an NBA team total projection betting tool,
 leveraging advanced machine learning techniques to predict NBA team scores and
 provide betting recommendations. The tool aims to assist bettors in making informed
